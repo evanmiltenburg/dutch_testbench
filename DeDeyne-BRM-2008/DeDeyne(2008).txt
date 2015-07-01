@@ -1,0 +1,1425 @@
+word;Translation;Asso;F;Asso;F;Asso;F;total;t=x;T>1;T
+aalbes;red currant;rood;31;bos;19;fruit;16;270;32;35;80
+aambeeld;anvil;smid;37;hamer;34;ijzer;21;270;35;21;91
+aanrecht;kitchen sink;keuken;69;afwas;38;koken;32;345;5;34;127
+aap;monkey;zoo;27;mens;19;dier;17;270;3;34;107
+aardappel;potato;puree;27;eten;22;frieten;19;270;3;37;81
+aardbei;strawberry;rood;58;lekker;31;zomer;25;267;4;18;62
+aarde;earth;grond;26;rond;25;bol;16;270;5;34;86
+aas;bait;vissen;46;worm;28;vis;26;273;8;26;76
+abrikoos;apricot;oranje;41;fruit;32;lekker;25;264;4;23;71
+accordeon;accordion;muziek;54;toetsen;8;lucsteeno;8;264;9;37;122
+acteur;actor;film;64;toneel;22;tv;14;270;2;27;99
+actrice;actress;film;48;acteur;21;toneel;18;249;0;22;101
+adder;viper;slang;54;gras;41;groen;10;270;20;28;92
+advocaat;lawyer;rechtbank;21;toga;17;geld;15;267;3;33;128
+avocado;avocado;groen;47;lekker;20;fruit;19;306;9;36;104
+afdrogen;to dry;handdoek;51;afwas;32;nat;14;246;0;27;84
+afrika;Africa;warm;27;zwart;17;negers;11;270;3;46;106
+ajuin;onion;wenen;33;tranen;22;groente;14;267;3;36;109
+akker;field;boer;53;veld;27;landbouw;17;246;2;30;77
+alcohol;alcohol;bier;50;zat;25;wijn;16;270;4;30;97
+alligator;alligator;krokodil;52;tanden;16;water;15;270;9;27;94
+amerika;America;bush;53;groot;17;oorlog;12;267;3;31;130
+amfibie;amphibian;kikker;46;dier;21;water;20;267;23;26;78
+ananas;pineapple;fruit;42;geel;41;lekker;19;270;5;27;79
+angel;sting;bij;52;wesp;47;pijn;35;270;12;19;61
+anjer;carnation;bloem;68;roos;13;rood;10;249;4;25;82
+anker;anchor;boot;67;schip;42;zee;39;324;3;32;96
+ansjovis;anchovy;pizza;39;vis;32;zout;25;267;9;23;84
+apotheker;pharmacist;ziek;32;medicijnen;21;dokter;17;270;4;35;87
+appel;apple;fruit;25;groen;25;boom;23;270;2;26;77
+appelflap;apple turnover;lekker;26;bakker;24;zoet;15;246;3;28;94
+aquarium;aquarium;water;52;vissen;45;vis;33;246;0;23;72
+archeoloog;archaeologist;geschiedenis;26;egypte;14;zand;13;270;4;39;110
+architect;architect;huis;55;tekenen;24;plan;16;270;4;33;98
+arend;eagle;vogel;48;vliegen;15;groot;14;270;2;36;100
+arm;arm;rijk;23;been;23;hand;22;264;0;34;116
+artisjok;artichoke;groente;43;pizza;18;lekker;15;255;31;23;89
+asbak;ashtray;sigaret;35;stank;26;roken;22;261;1;25;67
+asperges;asparagus;wit;33;soep;19;vies;15;270;1;31;107
+assepoester;Cinderella;sprookje;32;prins;24;schoen;17;267;3;33;87
+aster;aster;bloem;76;ster;11;herfst;9;297;47;24;91
+atletiek;athletics;lopen;49;sport;42;piste;16;270;1;31;97
+aubergine;zucchini;groente;42;paars;27;eten;18;270;18;32;83
+augurken;gherkins;groen;50;zuur;31;bokaal;11;267;7;32;93
+australië;Australia;kangoeroe;48;warm;17;ver;13;270;3;37;103
+auto;car;rijden;22;stuur;14;rijbewijs;12;270;7;41;113
+autosnelweg;highway;auto;34;file;24;autos;21;267;3;35;98
+baard;beard;man;28;haar;18;scheren;17;264;7;32;113
+baas;boss;werk;29;streng;19;chef;16;270;5;37;122
+baby;baby;klein;37;schattig;17;wenen;14;270;2;34;89
+bad;bath;water;50;warm;20;schuim;20;273;0;30;79
+badkamer;bathroom;bad;50;douche;41;wassen;33;267;3;22;48
+badminton;badminton;pluimpje;48;net;39;racket;28;267;3;19;61
+bagel;bagel;eten;9;brood;9;zoet;8;246;102;24;71
+bakken;to bake;brood;26;pan;18;oven;17;246;2;25;68
+bakker;baker;brood;78;taart;20;warm;12;270;5;33;78
+bal;ball;voetbal;46;rond;39;spelen;17;270;4;30;85
+balkon;balcony;terras;25;appartement;14;hoog;12;249;5;36;105
+ballen;balls;voetbal;37;sport;27;rond;14;267;9;39;102
+ballet;ballet;tutu;43;roze;29;dans;20;267;5;28;98
+balletje;(small) ball;pingpong;38;tennis;22;rond;19;270;8;29;85
+ballon;balloon;lucht;43;kind;14;rood;14;270;1;29;89
+bambi;Bambi;hert;38;tekenfilm;24;disney;24;267;9;29;81
+bamboe;bamboo;panda;43;stok;13;tuin;13;246;11;25;83
+banaan;banana;geel;59;krom;41;fruit;28;270;2;22;83
+band;tire;auto;40;fiets;29;muziek;18;246;2;26;97
+banjo;banjo;muziek;59;gitaar;33;jo;21;267;9;20;90
+bank;bench;geld;78;zitten;43;park;29;303;1;28;106
+bar;bar;drank;37;drinken;19;cafe;18;306;0;36;126
+barbecue;barbecue;vlees;69;zomer;44;warm;16;366;3;36;104
+basebalbat;baseballbat;sport;28;amerika;20;pet;10;246;10;36;98
+baseball;baseball;amerika;35;sport;31;knuppel;17;267;2;27;98
+basgitaar;bass (guitar);muziek;54;snaren;12;rock;11;270;8;38;118
+basketbal;basketball;sport;23;ring;22;oranje;20;267;2;34;109
+bat;bat;honkbal;24;vleermuis;22;baseball;18;258;41;27;77
+bazooka;bazooka;oorlog;44;geweer;19;wapen;18;282;26;32;97
+bed;bed;slapen;71;kussen;26;warm;13;267;3;32;71
+beeld;statue;tv;26;kunst;24;foto;16;261;4;37;123
+been;leg;voet;22;hond;20;lopen;14;246;3;31;99
+beer;bear;bruin;43;gevaarlijk;20;knuffel;16;306;1;36;109
+beha;bra;borsten;43;vrouw;23;kant;16;270;5;34;91
+beitel;chisel;hamer;44;werken;14;steen;13;270;6;36;110
+bek;snout / beak;vogel;61;mond;26;snavel;24;267;10;24;73
+beker;mug;drinken;36;voetbal;14;melk;11;246;1;33;94
+bel;bell;deur;43;telefoon;21;school;19;270;4;30;91
+belletjes;(small) bells;kerstmis;18;rinkelen;16;zeep;14;270;8;35;131
+benen;legs;lopen;32;lang;17;haar;13;246;2;38;86
+benzine;gasoline;auto;69;duur;34;tanken;11;282;0;30;84
+berg;mountain;sneeuw;60;hoog;44;klimmen;23;420;1;51;136
+beroep;profession;werken;29;werk;25;geld;23;303;3;35;153
+bescherming;protection;politie;16;veilig;11;veiligheid;11;246;2;36;124
+beschuit;rusk;droog;26;muisjes;16;ontbijt;15;258;1;39;105
+bestek;cutlery;vork;70;mes;61;lepel;46;267;5;11;38
+bever;beaver;tanden;26;water;25;dier;24;270;6;28;83
+bezem;broom;heks;74;vegen;33;steel;22;300;4;25;76
+biet;beet;rood;40;suiker;30;boer;26;270;8;28;79
+bij;bee;honing;44;steek;18;steken;13;270;6;32;93
+bijl;axe;hout;40;boom;20;hakken;17;267;6;31;94
+bikini;bikini;strand;53;zomer;28;zon;20;270;2;28;73
+biljarten;billiards;keu;38;ballen;31;cafe;22;270;1;28;83
+biscuit;biscuit;taart;19;koek;16;koekje;14;249;2;39;108
+bitter;bitter;zoet;29;smaak;21;citroen;18;267;24;25;81
+bizon;bison;dier;20;indiaan;18;bruin;14;270;4;40;111
+blad;leaf;boom;58;papier;48;schrijven;21;270;2;23;66
+blaffen;to bark;hond;79;lawaai;13;bijten;12;246;4;29;94
+blaten;to bleat;schaap;57;wei;14;geluid;11;249;38;27;67
+blauw;blue;lucht;50;zee;33;water;29;267;5;24;84
+blazen;to blow;wind;29;warm;17;ballon;16;267;5;32;116
+blik;tin;cola;22;ogen;20;conserven;15;270;6;41;113
+blikopener;can opener;blik;35;eten;14;keuken;13;270;8;38;110
+bliksem;lightning;donder;52;onweer;40;regen;19;291;0;27;73
+bloed;blood;rood;54;pijn;23;wonde;13;270;6;30;96
+bloedzuiger;leech;bloed;24;pijn;17;vies;16;270;5;40;105
+bloem;flower;roos;26;geur;14;tuin;12;246;2;45;90
+bloemkool;cauliflower;wit;40;groente;26;wittesaus;12;267;4;31;97
+bloes;blouse;knopen;17;trui;12;wit;12;267;8;48;124
+blok;block / brick;hout;30;been;16;studeren;15;267;4;35;109
+blokfluit;recorder;muziek;57;hout;23;school;13;246;2;31;87
+boa;boa;slang;78;sjaal;24;constrictor;23;270;8;23;94
+boek;book;lezen;80;papier;14;bibliotheek;13;363;0;42;132
+boeken;books;lezen;53;bibliotheek;19;papier;11;270;8;31;105
+boekenrek;bookcase;boeken;36;lezen;25;bibliotheek;23;246;3;25;112
+boekhouder;accountant;saai;40;geld;21;economie;18;267;4;29;105
+boer;farmer;boerderij;27;koe;22;tractor;15;270;1;36;108
+boerderij;farm;boer;33;koe;29;dieren;21;267;2;33;80
+boete;fine;politie;62;geld;46;auto;16;270;2;25;83
+bok;billy goat;geit;51;turnen;27;dier;23;270;9;28;90
+bokaal;bowl;vis;55;water;35;glas;25;267;2;25;85
+boks;box;handschoen;29;ring;24;pijn;14;246;5;33;96
+boksbeugel;knuckle dusters;pijn;17;tanden;14;vechten;14;279;7;35;134
+boksen;boxing;pijn;25;ring;20;handschoen;16;267;3;40;99
+bom;bomb;oorlog;21;ontploffing;14;explosie;12;282;1;48;131
+bonen;beans;groen;40;eten;14;tomatensaus;14;270;2;35;108
+boog;bow;pijl;78;schieten;17;indiaan;13;279;2;33;105
+boom;tree;blad;27;groen;27;bladeren;20;270;1;32;92
+boor;drill;gat;29;muur;25;lawaai;20;267;6;32;105
+boormachine;drill;lawaai;39;muur;15;werken;13;267;7;38;104
+boot;boat;water;48;zee;38;varen;19;270;5;28;88
+bord;plate;eten;64;krijt;23;vork;18;270;4;27;55
+borstel;brush;haar;45;vegen;21;kuisen;15;255;2;32;91
+borsten;breasts;vrouw;48;bh;30;seks;13;270;6;31;90
+borstkast;chest;ribben;19;man;15;hart;15;246;10;32;83
+bos;forest;bomen;40;groen;38;boom;29;270;4;33;87
+bosbes;blueberry;bos;26;rood;25;confituur;16;267;7;33;78
+bot;bone;been;36;hond;30;skelet;14;246;7;29;97
+boter;butter;vet;19;brood;18;boterham;17;246;0;29;75
+boterham;sandwich;choco;55;kaas;28;ontbijt;16;267;2;25;73
+bouwen;to build;huis;76;steen;16;baksteen;12;270;4;35;91
+braambessen;blackberries;bos;33;rood;23;lekker;21;270;5;32;85
+brand;fire;vuur;56;brandweer;31;warm;28;267;1;29;77
+brandkraan;fire hydrant;water;46;rood;30;brand;28;246;0;19;62
+brandweerman;fireman;vuur;51;water;32;brand;27;270;6;27;72
+brandweerwagen;firetruck;rood;50;vuur;34;sirene;24;246;2;19;64
+breekijzer;crowbar;dief;21;inbreken;19;inbraak;14;267;19;33;113
+brie;brie;kaas;76;frankrijk;24;wit;14;267;8;25;71
+brief;letter;schrijven;29;postzegel;24;post;20;315;10;32;95
+brieven;letters;post;32;schrijven;27;postzegel;20;246;1;29;87
+brievenbus;mailbox;post;66;postbode;35;brief;23;285;1;25;86
+bril;glasses;lenzen;17;lezen;16;ogen;15;258;1;33;102
+broek;pants;jeans;37;riem;18;lang;13;267;5;38;96
+bromfiets;scooter;helm;31;lawaai;18;snel;12;270;3;46;108
+brommer;motorbike;helm;36;lawaai;19;fiets;16;270;2;38;100
+brood;bread;bakker;30;eten;24;wit;16;270;0;33;99
+broodrooster;toaster;brood;30;toast;28;verbrand;15;267;4;29;96
+brownie;brownie;chocolade;40;lekker;25;bruin;17;249;38;18;78
+brug;bridge;water;56;rivier;16;auto;12;267;0;35;118
+bruid;bride;wit;43;bruidegom;41;feest;29;330;4;28;85
+bruin;brown;kleur;23;chocolade;19;zon;17;267;5;40;94
+buidel;pouch;kangoeroe;49;geld;28;dier;19;246;5;19;64
+buizen;to fail;school;22;loodgieter;16;examens;13;270;10;37;118
+bult;lump / bump;pijn;36;kameel;35;dromedaris;15;270;10;30;94
+bureau;desk (bureau);stoel;30;computer;22;studeren;18;267;7;32;70
+bus;bus;delijn;20;school;11;lijn;11;267;5;40;129
+cactus;cactus;woestijn;33;stekels;24;groen;21;246;2;29;73
+cafe;bar;bier;50;vrienden;15;drinken;14;246;0;31;91
+cake;cake;lekker;45;appel;13;chocolade;13;267;3;37;97
+calamares;calamares;inktvis;36;spanje;16;lekker;12;249;47;25;84
+camion;truck;groot;24;vrachtwagen;20;gevaarlijk;13;270;6;31;124
+camionette;van;wit;42;auto;39;vervoer;22;483;13;68;184
+camping;camp site;tent;59;caravan;40;vakantie;26;267;3;29;94
+cappucino;cappucino;koffie;58;warm;20;italie;15;264;1;30;78
+caravan;trailer ;vakantie;39;camping;25;reis;14;270;2;36;105
+carnaval;carnival;verkleden;39;feest;36;confetti;19;291;3;38;83
+carnivoor;carnivore;vlees;56;vleeseter;21;dier;19;309;13;31;107
+cassette;tape;muziek;51;oud;17;video;16;249;6;25;88
+cassetterecorder;tape recorder;muziek;42;oud;14;opnemen;13;246;1;28;108
+cel;cell;gevangenis;60;tralies;15;biologie;8;246;3;31;105
+cello;cello;muziek;58;orkest;18;viool;17;270;7;31;82
+champignons;mushrooms;paddestoel;19;bos;17;lekker;15;270;5;41;104
+chauffeur;driver;auto;56;taxi;38;bus;31;270;5;27;90
+china;China;geel;27;rijst;18;spleetogen;13;249;0;31;102
+chinees;Chinese (person);geel;42;eten;29;rijst;19;270;2;27;91
+chips;(potato) chips;zout;42;paprika;25;lekker;22;267;4;33;72
+chloor;chlorine;zwembad;71;geur;16;chemie;14;246;5;23;81
+choco;chocolate spread;boterham;45;bruin;35;lekker;28;270;0;28;86
+chocolade;chocolate;lekker;51;bruin;29;zoet;14;270;7;29;101
+cijfers;numbers;wiskunde;37;rekenen;22;letters;16;255;5;30;93
+cimbalen;cymbals;muziek;41;lawaai;27;orkest;22;267;15;27;102
+cinema;movie theater;film;78;popcorn;31;vrienden;11;273;4;28;84
+circus;circus;clown;54;tent;29;olifant;15;246;0;20;89
+citroen;lemon;zuur;68;geel;63;fruit;15;264;5;25;67
+clementine;mandarine;oranje;48;mandarijn;28;fruit;21;270;6;29;73
+clown;clown;circus;37;rodeneus;24;neus;21;270;0;29;104
+cobra;cobra;slang;81;giftig;16;gevaar;11;270;20;24;98
+cocktail;cocktail;alcohol;29;drank;22;lekker;16;267;0;39;105
+cola;coke;suiker;20;zwart;14;zoet;14;270;1;41;96
+computer;computer;internet;43;scherm;21;toetsenbord;13;270;4;27;108
+conducteur;guard;trein;79;kaartje;17;ticket;17;267;2;27;76
+confituur;marmelade;boterham;29;aardbei;22;aardbeien;19;249;4;28;71
+contrabas;double bass;muziek;56;orkest;22;groot;16;270;7;31;73
+courgette;zucchini;groente;46;groen;44;soep;25;270;15;22;74
+cowboy;cowboy;paard;41;hoed;36;indiaan;21;261;1;34;76
+croissant;croissant;ontbijt;56;bakker;39;lekker;37;432;2;36;100
+daas;horsefly;pijn;28;insect;15;steken;15;270;25;41;89
+dadels;dates;zoet;19;bruin;18;vijgen;14;270;27;33;101
+dak;roof;huis;41;pan;19;pannen;18;255;2;33;87
+dam;dam;water;65;bever;18;rivier;12;246;2;31;89
+dans;dance;muziek;34;fuif;15;salsa;11;270;3;32;139
+dansen;to dance;muziek;34;plezier;15;feest;13;246;0;35;115
+das;tie;dier;28;kostuum;26;hemd;17;267;3;33;106
+deegrol;rolling pin;taart;27;bakken;19;pizza;18;273;0;35;87
+deksel;lid;pot;62;koken;16;neus;15;264;3;30;98
+denneappel;cone;bos;38;boom;21;eekhoorn;16;249;4;26;91
+dessert;dessert;lekker;31;ijs;24;taart;18;264;2;27;83
+deur;door;klink;37;hout;19;open;17;246;2;27;70
+deurknop;doorknop;deur;55;klink;30;openen;22;396;10;40;132
+diamant;diamant;duur;37;antwerpen;26;ring;23;249;3;36;82
+dieet;diet;eten;28;dik;27;mager;17;270;1;34;111
+dief;thief;stelen;35;geld;15;zwart;13;270;11;35;106
+dier;animal;hond;47;kat;36;paard;13;270;5;38;99
+dierenarts;veternarian;hond;45;kat;24;dieren;15;264;2;35;102
+digitaal;digital;tv;31;computer;30;fototoestel;23;276;2;34;97
+dijk;dyke;zee;56;water;29;strand;19;246;1;24;88
+dik;fat;vet;46;dun;28;eten;16;267;3;30;106
+dinosaurus;dinosaur;groot;47;uitgestorven;15;groen;13;270;7;31;97
+directeur;manager;school;51;streng;20;baas;18;270;6;31;97
+divan;couch;zetel;44;slapen;16;liggen;15;255;15;32;87
+doedelzak;bagpipe;schotland;47;muziek;39;schot;19;267;1;27;82
+dokter;doctor;ziek;27;pijn;16;wit;14;267;1;36;114
+dolfijn;dolphin;water;35;zee;26;flipper;21;270;5;28;80
+dolk;dagger;mes;32;bloed;21;scherp;17;282;4;38;109
+dom;stupid;slim;29;stom;21;idioot;8;270;21;30;134
+donder;thunder;bliksem;69;onweer;26;regen;23;246;2;24;67
+donker;dark;nacht;45;zwart;30;licht;26;270;11;22;100
+donut;donut;rond;24;eten;19;lekker;18;246;1;27;76
+dood;death / dead;kist;22;begrafenis;20;zwart;18;270;5;28;107
+doorzichtig;transparant;glas;49;raam;20;transparant;19;246;7;29;78
+doos;box;karton;38;opbergen;16;schoenen;12;255;7;33;98
+doping;drugs;wielrennen;41;sport;27;epo;21;270;3;33;106
+dorst;thurst;water;62;drinken;47;glas;13;267;2;28;62
+douche;shower;water;40;wassen;21;proper;12;246;0;30;83
+draad;thread;naald;29;naaien;25;garen;13;246;6;36;110
+draaimolen;merry-go-round;kermis;54;kinderen;25;paard;15;246;1;27;85
+draak;dragon;vuur;58;sprookje;18;groen;17;261;2;31;101
+drank;drink;dorst;28;cola;25;alcohol;25;270;6;28;80
+driehoek;triangle;wiskunde;47;triangel;15;pythagoras;14;270;4;36;105
+drinken;to drink;water;38;dorst;33;bier;33;267;3;19;73
+dromedaris;dromedary;woestijn;48;kameel;43;bult;35;270;9;27;79
+droog;dry;nat;32;woestijn;24;zon;14;249;5;32;86
+druif;grape;wijn;34;fruit;24;blauw;17;264;1;24;79
+druiven;grapes;wijn;60;fruit;32;tros;24;315;5;28;83
+druk;busy, pressure;stress;40;werk;23;school;12;276;1;43;118
+drumstel;drum set;muziek;48;lawaai;27;stok;13;270;4;32;94
+duif;dove;vogel;24;vliegen;20;vrede;16;270;2;40;113
+duikboot;submarine;water;45;zee;27;oorlog;24;267;2;31;100
+duim;thumb;hand;41;vinger;38;nagel;17;249;0;26;79
+duivel;devil;hel;38;rood;36;vuur;17;258;1;26;86
+duizendpoot;centipede;insect;32;vies;18;klein;14;270;8;40;111
+duur;expensive;geld;40;tijd;20;goedkoop;11;249;3;33;104
+dwarsfluit;flute;muziek;61;orkest;12;blazen;11;270;5;32;118
+eclair;eclair;chocolade;36;bakker;27;lekker;25;273;18;26;83
+economie;economy;geld;54;beurs;10;school;9;252;3;35;132
+eekhoorn;squirrel;bos;34;boom;25;bruin;24;267;7;28;81
+eend;duck;water;43;vijver;19;geel;12;267;2;39;96
+eenhoorn;unicorn;sprookje;22;paard;21;wit;18;246;8;27;117
+eenwieler;unicycle;circus;50;fiets;29;clown;21;246;7;22;78
+egel;hedgehog;stekels;49;dier;13;bruin;12;267;4;29;90
+egypte;Egypt;pyramide;51;farao;33;woestijn;22;270;0;21;64
+ei;egg;kip;66;omelet;20;geel;16;270;2;29;71
+eikel;acorn;boom;44;penis;24;eekhoorn;21;252;1;18;78
+eiland;island;palmboom;39;zee;35;strand;14;270;3;25;87
+eiwit;eggwhite;ei;28;eigeel;27;kip;19;246;2;35;94
+ekster;magpie;vogel;57;zwart;29;zwartwit;12;267;7;36;87
+eland;moose/elk;gewei;28;dier;22;hert;17;246;2;30;94
+elastiek;elastic band;haar;20;rekker;15;rubber;14;246;6;31;116
+emmer;bucket;water;78;kuisen;18;poetsen;16;258;2;29;86
+engel;angel;hemel;47;wit;27;vleugels;24;249;1;26;83
+engelsesleutel;adjustabnle spanner;werken;12;gereedschap;11;cluedo;7;264;40;40;111
+enveloppe;envelope;brief;64;postzegel;36;post;18;246;2;20;66
+erwten;peas;groen;48;wortelen;24;klein;19;267;1;24;79
+eskimo;Eskimo;iglo;50;koud;41;ijs;19;252;0;25;75
+eten;to eat / food;lekker;36;honger;22;drinken;14;270;2;38;119
+exotisch;exotic;strand;21;eiland;20;fruit;19;267;2;29;87
+ezel;donkey;dom;28;grijs;26;paard;16;264;5;32;99
+fabriek;factory;werk;19;rook;19;werken;16;249;0;29;92
+fagot;bassoon;muziek;44;instrument;37;orkest;12;270;31;31;88
+fakkel;torch;vuur;69;licht;29;toorts;17;285;2;31;88
+fanfare;brass band;trompet;40;muziek;31;trommel;15;270;0;31;106
+fazant;pheasant;vogel;38;jacht;17;wild;15;270;7;29;104
+feest;party;muziek;25;vrienden;22;drank;16;267;3;35;101
+feta;feta;kaas;56;griekenland;26;grieks;24;267;26;27;72
+fier;proud;trots;52;pauw;34;blij;13;246;7;20;96
+fiets;bicycle;wiel;22;bel;19;rijden;9;270;4;48;128
+film;movie;cinema;39;bioscoop;16;tv;12;270;0;36;117
+fitness;gym;sport;29;spieren;16;zweet;15;249;2;33;112
+fles;bottle;glas;81;wijn;69;drank;61;591;3;39;125
+fluit;recorder;muziek;53;blokfluit;16;noten;13;270;3;37;108
+fluiten;to whistle;muziek;27;vrolijk;20;lippen;15;246;1;36;109
+fontein;fountain;water;72;fris;11;rome;8;246;3;25;93
+forel;trout;vis;69;water;29;eten;20;270;7;25;80
+fornuis;stove;koken;57;eten;35;warm;20;270;1;24;73
+fototoestel;camera;digitaal;28;vakantie;25;foto;23;255;4;28;109
+framboos;raspberry;rood;39;fruit;25;lekker;23;270;3;25;71
+frangipane;frangipane;lekker;31;bakker;19;zoet;15;246;3;27;96
+frankrijk;France;wijn;40;vakantie;24;parijs;21;270;3;25;90
+frieten;french fries;mayonaise;48;lekker;27;vet;24;270;3;25;81
+frigo;fridge;koud;57;eten;44;wit;18;270;2;23;88
+fruit;fruits;appel;49;banaan;28;gezond;27;267;5;26;66
+fruitvlieg;fruit fly;fruit;19;klein;18;vies;13;267;26;30;113
+gaatjes;(small) holes;kaas;34;tanden;33;tandarts;22;270;8;29;92
+galabal;grand ball;kleed;24;jurk;18;kostuum;16;267;0;35;104
+garage;garage;auto;81;poort;19;fiets;17;270;9;25;93
+garnaal;shrimp;zee;38;lekker;16;tomaat;15;255;0;32;100
+gat;hole;zwart;18;kont;11;achterwerk;10;246;1;33;101
+gebak;pastry;lekker;42;taart;32;cake;29;273;2;28;73
+gebit;teeth;tanden;50;tandarts;39;poetsen;16;252;0;27;71
+geel;yellow;zon;53;kanarie;16;kleur;16;270;8;26;89
+geest;spirit;spook;53;dood;15;wit;12;306;6;38;139
+gehandicapt;handicapped;rolstoel;78;mentaal;17;erg;9;264;2;28;112
+geit;goat;melk;45;kaas;29;dier;23;312;0;26;103
+gekko;gecko;dier;21;salamander;11;hagedis;9;288;70;32;108
+geld;money;rijk;24;euro;19;kopen;10;270;3;38;122
+geluid;sound;muziek;51;lawaai;26;oor;10;270;11;37;113
+gember;ginger;kruid;28;eten;12;koken;11;246;21;34;101
+geranium;geranium;bloem;45;rood;28;zomer;14;246;5;26;90
+gereedschap;tool;hamer;67;schroevendraaier;19;werken;17;270;9;29;79
+geschiedenis;history;school;18;saai;17;verleden;13;270;2;35;125
+gesp;buckle;riem;71;broek;43;schoen;19;270;7;26;77
+geur;smell;parfum;54;stank;25;neus;22;267;3;23;89
+gevaar;danger;angst;14;verkeer;12;auto;10;246;3;41;119
+gevaarlijk;dangerous;verkeer;14;angst;10;dood;10;267;20;40;135
+gevangenis;prison;cel;33;tralies;30;straf;15;321;5;39;144
+gevecht;fight;bloed;25;pijn;17;ruzie;13;246;1;39;124
+geweer;rifle;oorlog;25;geweld;24;dood;21;276;0;31;88
+gewei;antler;hert;65;bos;13;dier;13;246;14;27;87
+geweld;violence;oorlog;26;pijn;19;vechten;17;246;0;31;106
+gewicht;weight;weegschaal;45;dik;23;zwaar;22;270;6;30;84
+gezoem;buzzing;bij;60;mug;32;vlieg;20;246;3;24;80
+gezond;healthy;sport;24;fruit;23;eten;17;249;5;30;99
+gier;vulture;vogel;44;dood;25;aas;11;267;10;36;107
+gieter;watering can;water;84;bloemen;41;planten;27;315;5;23;72
+gif;poison;slang;43;dood;40;gevaarlijk;12;270;8;30;108
+giftig;poisoneous;slang;48;dood;26;paddestoel;11;267;4;33;109
+gips;plaster;wit;24;pijn;23;arm;17;246;3;28;78
+giraf;giraffe;nek;31;zoo;30;geel;24;267;2;24;57
+gitaar;guitar;muziek;61;snaar;30;snaren;22;270;0;29;99
+glad;smooth;ijs;67;vallen;12;winter;10;249;5;32;93
+glas;glass;drinken;34;water;27;raam;15;270;8;29;94
+glibberig;slippery;slijm;25;glad;21;slang;16;267;10;31;88
+glijbaan;slide;speeltuin;23;kinderen;20;water;16;246;3;32;88
+glijden;to slide;ijs;31;glijbaan;29;sneeuw;25;267;3;28;81
+goal;goal;voetbal;76;bal;21;keeper;21;270;4;31;75
+gocart;go-cart;zee;25;snel;16;racen;16;270;7;38;112
+golf;golf;zee;37;water;17;sport;14;267;5;35;104
+golven;waves;zee;75;water;26;surfen;22;270;7;27;85
+gom;eraser;potlood;67;papier;17;wit;14;246;4;25;71
+gordel;belt / girdle;auto;78;veiligheid;22;veilig;14;270;6;24;84
+gordijn;curtain;raam;23;donker;22;stof;17;252;5;38;115
+gorilla;gorilla;aap;60;groot;22;zoo;15;249;2;25;78
+goud;gold;zilver;23;geel;20;rijk;18;246;1;27;86
+goudvis;goldfish;bokaal;47;water;45;oranje;38;270;3;24;73
+graan;corn;brood;52;veld;23;tarwe;13;246;4;27;81
+graanproduct;cereal product;brood;64;tarwe;28;cornflakes;14;306;0;35;90
+graf;grave;dood;63;kerkhof;36;zerk;20;255;2;23;78
+granaat;grenade;oorlog;56;appel;23;ontploffing;14;276;0;35;97
+gras;grass;groen;80;zomer;21;tuin;18;270;6;33;89
+grasmachine;lawn mower;gras;40;lawaai;29;groen;21;270;1;25;99
+grenadine;grenadine;rood;57;water;25;zoet;25;270;4;34;96
+griekenland;Greece;zon;33;vakantie;16;athene;16;267;7;33;111
+grieks;Greek;latijn;25;eten;15;taal;15;270;4;35;108
+grijs;gray;oud;30;muis;22;zwart;20;270;4;28;94
+groen;green;gras;63;kleur;19;natuur;15;267;5;30;100
+groente;vegetable;sla;39;gezond;32;tomaat;24;312;4;28;74
+grond;soil;aarde;52;bruin;17;zand;16;270;5;33;109
+groot;big;klein;40;reus;37;lang;13;267;9;35;112
+gsm;mobile;sms;50;bellen;44;telefoon;19;276;0;27;74
+haai;shark;zee;41;tanden;37;gevaarlijk;21;270;2;28;82
+haak;hook;kapitein;24;vis;23;vissen;16;270;8;37;119
+haan;rooster;kip;61;kraaien;21;ei;17;270;3;27;96
+haar;hair;lang;23;kapper;20;blond;18;270;5;33;101
+hagedis;lizard;groen;26;staart;16;reptiel;15;270;5;35;118
+hak;cut;schoen;55;bijl;21;hoog;14;270;6;31;107
+hakken;(high) heels;schoenen;23;dansen;14;bijl;14;246;0;37;120
+halloween;Halloween;pompoen;57;snoep;18;oranje;18;270;1;34;88
+hals;neck;nek;48;ketting;36;hoofd;13;258;7;26;90
+hamburger;hamburger;vet;22;vlees;15;ketchup;13;249;0;34;96
+hamer;hammer;nagel;45;spijker;19;kloppen;18;267;7;34;85
+hamster;hamster;klein;29;kooi;28;dier;16;267;1;37;98
+hand;hand;vingers;27;vinger;21;ring;13;246;4;33;101
+handbal;handball;sport;48;bal;25;goal;11;270;4;34;108
+handboeien;handcuffs;politie;52;gevangenis;30;gevangene;14;270;1;29;94
+handdoek;towel;afdrogen;50;zacht;47;douche;44;588;2;47;107
+handschoen;glove;winter;35;koud;17;warm;15;246;3;29;92
+handschoenen;gloves;winter;39;koud;35;warm;29;270;5;29;85
+handtas;purse, handbag;vrouw;25;geld;17;rommel;14;246;3;34;105
+hangmat;hammock;lui;19;zon;18;zomer;17;246;2;26;83
+hard;hard;steen;41;zacht;36;pijn;15;270;14;29;111
+hardlopen;running;sport;26;atletiek;18;vermoeiend;13;264;4;41;114
+harig;hairy;hond;18;aap;16;dier;14;246;8;34;99
+haring;herring;vis;63;zee;23;eten;10;270;7;32;100
+hark;rake;tuin;60;bladeren;30;herfst;14;246;0;25;75
+harp;harp;muziek;54;snaren;27;instrument;13;270;8;29;96
+harpoen;harpoon;walvis;29;vis;27;zee;18;246;3;34;82
+hart;heart;liefde;32;rood;27;bloed;26;252;2;33;95
+hazelnoot;hazelnut;choco;39;eekhoorn;35;boom;27;270;12;27;72
+hazelworm;blindworm;hazelnoot;13;noot;10;slang;10;267;58;31;99
+hek;fence;tuin;33;afsluiting;16;hout;14;246;2;36;103
+heks;witch;bezem;36;neus;12;sprookje;12;258;2;40;107
+helikopter;helicopter;vliegen;40;lucht;22;schroef;18;264;3;28;108
+helm;helmet;fiets;27;brommer;26;vallen;17;270;3;29;106
+hemd;shirt;das;24;man;20;wit;15;270;5;39;110
+hemel;heaven;blauw;39;wolken;29;god;21;246;0;22;64
+hengel;fishing rod;vissen;42;vis;39;water;21;270;8;24;82
+herbivoor;herbivore;gras;25;koe;19;dier;18;306;41;30;90
+hert;deer;bos;42;bambi;32;dier;31;270;3;24;85
+hesp;ham;kaas;28;vlees;24;varken;21;267;1;34;80
+hobby;hobby;vrijetijd;23;ontspanning;21;sport;12;306;5;43;148
+hoed;hat;hoofd;22;man;15;zwart;8;270;5;41;131
+hoef;hoof;paard;80;smid;31;ijzer;24;249;1;16;62
+hoefijzer;horseshoe;paard;83;geluk;58;smid;28;258;2;17;59
+hommel;bumblebee;bij;50;dik;16;steek;15;270;0;29;80
+hond;dog;blaffen;17;kat;16;huisdier;12;270;3;39;121
+honing;honey;bij;64;zoet;48;geel;21;270;3;24;61
+hoofd;head;haar;47;ogen;31;hersenen;21;312;5;29;98
+hoog;high;laag;42;berg;18;toren;15;267;5;33;84
+hooi;hay;boer;19;gras;16;paard;15;246;1;41;85
+hoorn;horn;telefoon;14;muziek;13;blazen;13;246;3;40;121
+horen;to hear;oor;38;muziek;29;luisteren;27;261;0;23;60
+horloge;watch;tijd;51;uur;27;pols;16;246;1;32;83
+hout;wood;boom;42;bos;25;vuur;21;270;2;39;92
+houtklem;clamp;hout;24;lijm;7;bos;6;282;106;32;92
+houweel;pickaxe;werktuig;10;mijn;9;ijzer;9;264;32;41;113
+hovercraft;hovercraft;water;42;boot;30;zee;24;270;28;28;80
+huilen;to cry;verdriet;49;tranen;36;wenen;25;267;3;23;76
+huis;house;tuin;26;dak;21;thuis;21;267;2;37;97
+huisdier;pet;hond;77;kat;62;vis;19;270;0;23;63
+iglo;igloo;eskimo;80;ijs;52;koud;46;342;3;30;75
+iguanodon;iguanodon;dinosaurus;25;reptiel;12;groen;10;294;109;20;95
+ijs;ice;koud;50;zomer;24;lekker;23;270;5;26;95
+ijsbeer;polar bear;wit;52;koud;35;noordpool;20;270;1;28;66
+ijshockey;lettuce;ijs;30;schaatsen;25;puck;24;267;0;31;84
+ijsje;icecream;koud;32;lekker;31;zomer;27;270;0;30;87
+ijskast;fridge;koud;52;eten;40;frigo;15;276;1;32;69
+ijzer;iron;metaal;23;hard;21;grijs;18;267;5;31;115
+inbraak;burglary;dief;51;politie;24;diefstal;12;270;3;34;81
+inbreken;burglary;dief;57;stelen;18;huis;13;270;4;34;80
+indiaan;American Indian;veren;18;tent;15;amerika;14;270;4;34;100
+informaticus;information scientist;computer;63;saai;18;bril;12;264;9;31;93
+inkt;ink;pen;73;blauw;40;schrijven;26;315;3;26;75
+inktvis;squid;zee;34;inkt;22;tentakels;17;270;8;33;100
+insect;insect;vlieg;36;mug;23;klein;19;270;0;33;96
+instrument;instrument;muziek;43;gitaar;30;piano;29;270;1;28;87
+iris;iris;bloem;62;oog;47;blauw;11;246;5;23;64
+Italië;Italy;rome;31;pizza;25;zon;22;270;5;28;99
+jacht;yacht;geweer;43;boot;24;dieren;16;312;1;33;106
+japan;Japan;geel;20;china;17;spleetogen;15;270;1;40;117
+jas;coat;warm;38;winter;33;regen;26;270;3;35;83
+jazz;jazz;muziek;44;saxofoon;38;trompet;12;270;8;29;109
+jeans;jeans;broek;50;blauw;46;levis;11;270;6;34;102
+jeep;jeep;auto;38;modder;18;safari;18;270;9;35;123
+jeuk;itch;krabben;62;uitslag;19;mug;15;270;6;29;80
+jezus;jesus;god;37;kruis;27;bijbel;24;264;0;25;75
+jogging;tracksuit;lopen;68;sport;33;broek;17;399;4;53;149
+jojo;jojo;speelgoed;28;kind;20;openneer;19;285;7;36;110
+jongen;boy;meisje;43;man;21;voetbal;13;246;9;35;94
+jongeren;youngsters;jeugd;18;uitgaan;16;school;16;246;2;39;108
+judo;judo;sport;31;gordel;20;vechten;17;270;3;43;92
+jungle;jungle;groen;24;oerwoud;20;tarzan;18;264;0;34;92
+jurk;dress;zomer;24;vrouw;19;meisje;18;270;5;32;106
+kaaiman;caiman;krokodil;61;water;14;alligator;13;270;19;28;106
+kaars;candle;licht;47;vlam;36;gezellig;25;315;1;31;81
+kaarten;to play cards;spel;25;spelen;16;harten;8;246;0;40;119
+kaas;cheese;geel;37;gaten;19;lekker;17;267;1;31;88
+kabeljauw;cod;vis;81;zee;35;eten;31;270;1;22;76
+kabouter;gnome;klein;35;paddestoel;31;plop;29;246;0;20;58
+kado;gift;verjaardag;33;strik;21;verrassing;14;246;0;31;91
+kakkerlak;cockroach;vies;48;insect;20;vuil;19;270;4;27;101
+kalkoen;turkey;kerstmis;52;kip;26;eten;16;267;0;35;95
+kam;comb;haar;71;borstel;30;kapper;13;246;5;25;82
+kameel;camel;woestijn;70;water;25;bult;25;270;4;21;62
+kameleon;chameleon;kleuren;33;dier;20;kleur;17;270;5;39;92
+kampvuur;camp fire;gezellig;30;warm;20;hout;19;276;1;34;79
+kan;can;water;37;koffie;22;melk;20;249;6;31;90
+kanarie;canary;geel;78;vogel;40;kooi;36;267;5;20;62
+kangoeroe;kangaroo;australie;71;buidel;48;springen;39;270;1;19;62
+kano;canoe;water;42;varen;27;rivier;17;246;1;25;77
+kanon;canon;oorlog;47;kogel;25;dullegriet;9;282;0;38;106
+kant;side / lace;brugge;37;wit;19;stof;15;270;2;38;124
+kapitein;captain;schip;52;boot;35;zee;26;285;1;32;85
+kapstok;peg;jas;49;hoed;10;hout;9;246;4;33;97
+kar;cart;paard;41;wiel;28;hout;23;270;2;27;98
+karper;carp;vis;68;water;28;zee;18;267;9;22;70
+karton;cardboard;doos;55;papier;43;bruin;18;246;6;20;79
+kassa;check-out;geld;63;winkel;35;betalen;23;255;1;24;89
+kast;cupboard/closet;kleren;41;hout;33;bruin;12;270;3;33;85
+kasteel;castle;ridder;21;middeleeuwen;19;koning;12;270;0;35;118
+kat;cat;hond;23;zacht;15;lief;15;267;4;33;105
+katapult;slingshot;steen;35;schieten;17;elastiek;17;279;5;30;116
+kerk;church;kruis;23;priester;18;mis;16;270;2;30;110
+kermis;fair;smoutebollen;23;feest;10;botsautos;10;249;2;38;109
+kers;cherry;rood;54;fruit;22;lekker;19;270;11;28;73
+kerstman;Santa Claus;kerstmis;27;rood;22;kerstboom;20;246;2;33;75
+kerstmis;Christmas;kerstboom;37;feest;15;familie;15;270;1;29;83
+kervel;chervil;soep;71;groen;42;groente;23;270;26;20;63
+ketel;kettle;vuur;27;water;22;soep;22;267;6;28;85
+ketting;chain;fiets;25;hals;16;goud;15;246;6;37;103
+keu;cue;biljart;53;stok;20;bal;14;246;17;24;68
+keuken;kitchen;eten;55;koken;34;tafel;14;270;5;33;98
+keukengerief;kitchen utensil;mes;42;lepel;34;vork;26;297;1;27;82
+kever;beetle;insect;25;auto;17;zwart;17;270;3;34;103
+kievit;lapwing;vogel;83;ei;11;vliegen;10;303;27;32;102
+kikker;frog;groen;56;vijver;28;water;14;270;3;29;92
+kind;child;klein;29;jong;20;spelen;15;270;10;35;118
+kinderbed;child's bed;baby;35;klein;20;slapen;17;273;3;38;114
+kinderen;children;spelen;26;klein;22;lawaai;13;267;6;37;115
+kinderstoel;baby-chair;baby;41;eten;23;auto;20;246;1;30;97
+kinderwagen;buggy;baby;51;wandelen;13;buggy;10;246;2;29;108
+kinesist;physiotherapist;pijn;31;massage;28;dokter;16;270;7;33;103
+kip;chicken;ei;42;haan;22;eten;13;270;4;44;89
+kist;coffin;dood;36;hout;20;schat;18;246;2;34;105
+kiwi;kiwi;groen;56;fruit;34;lekker;16;270;4;30;76
+klak;cap;pet;59;geluid;14;hoofddeksel;10;246;22;23;106
+klaproos;poppy;rood;67;bloem;35;mooi;12;252;3;24;92
+klarinet;clarinet;muziek;64;instrument;25;orkest;10;270;4;34;85
+klas;classroom;school;31;leerlingen;15;bord;13;246;0;30;101
+klavecimbel;harpsichord;muziek;57;piano;24;orkest;18;270;16;23;87
+kleding;clothing;broek;28;trui;14;mooi;12;270;0;32;114
+kleed;dress;vrouw;22;zomer;20;jurk;19;270;7;34;87
+kleerkast;wardrobe;kleren;44;slaapkamer;17;kledij;12;246;5;32;97
+klein;small;groot;43;dwerg;17;kabouter;17;270;11;28;99
+kleren;clothing;broek;25;winkel;21;mode;17;270;2;36;93
+kleur;color;rood;49;blauw;45;groen;32;294;5;25;74
+kleuren;colors;rood;49;blauw;29;geel;27;270;4;19;75
+klimmen;to climb;berg;31;touw;18;hoog;15;270;11;38;103
+klink;doornob;deur;72;openen;12;metaal;10;246;20;27;74
+klok;clock;tijd;44;uur;37;wijzer;32;267;2;25;80
+kloppen;to knock;deur;68;hamer;33;slaan;23;270;3;25;82
+klopper;whisk;slagroom;45;keuken;39;deur;37;585;22;60;160
+kluis;safe;geld;68;bank;42;code;12;246;0;23;76
+knaagdier;rodent;rat;61;konijn;39;muis;31;303;3;22;84
+knie;knee;been;30;pijn;22;gewricht;21;246;7;30;92
+knippen;to cut;schaar;69;haar;39;papier;34;270;5;19;69
+knol;tuber;paard;49;selder;22;wortel;21;306;4;36;79
+knoop;button;touw;31;jas;20;hemd;13;246;1;33;89
+knopen;to tie, to knot;jas;31;touw;17;hemd;15;267;7;32;107
+knuffel;teddybear;beer;39;liefde;20;lief;12;249;0;36;91
+knuppel;club;politie;22;slaan;19;hout;19;270;3;36;105
+koala;koala;australie;30;beer;27;beertje;18;306;2;36;92
+koe;cow;melk;69;wei;23;gras;21;270;3;28;68
+koek;cookie;lekker;41;chocolade;26;eten;18;270;6;37;98
+koekje;biscuit;lekker;39;chocolade;20;zoet;14;246;0;27;89
+koekoek;cuckoo;vogel;67;klok;38;geluid;14;267;3;23;91
+koets;carriage;paard;58;assepoester;33;paarden;20;270;4;28;94
+koetsier;driver / coachman;paard;42;koets;39;paarden;16;246;0;26;81
+koevoet;crowbar;inbreken;27;inbraak;16;ijzer;15;267;13;36;90
+koffer;suitcase / trunk;vakantie;37;reis;36;reizen;23;291;0;27;96
+koffie;coffee;zwart;40;melk;26;warm;21;270;2;30;81
+koffiekoeken;danish pastry;bakker;31;zondag;28;lekker;27;255;0;31;77
+koffiezet;percolator;koffie;38;geur;15;zwart;14;270;6;38;92
+kogel;bullet;geweer;48;dood;24;oorlog;18;246;2;27;74
+kogelstoten;shot-put;sport;29;zwaar;24;atletiek;17;270;11;34;104
+kok;cook;eten;62;restaurant;38;muts;30;267;3;24;70
+koken;to cook;eten;35;lekker;27;water;13;267;4;30;93
+kokosnoot;coconut;eiland;35;melk;26;palmboom;21;270;1;34;79
+kom;bowl;sla;21;eten;19;soep;19;270;16;36;107
+komkommer;cucumber;groen;72;groente;29;lang;27;270;4;29;72
+komodo;Komodo dragon;kast;15;varaan;12;eiland;9;321;141;22;110
+konijn;rabbit;oren;15;wit;15;zacht;14;267;2;42;108
+koning;king;kroon;41;koningin;40;albert;21;270;3;28;83
+koningin;queen;koning;43;kroon;22;paleis;15;246;2;31;82
+kooi;cage;vogel;44;tralies;21;gevangen;17;270;6;28;88
+kookpot;pot;eten;52;vuur;19;koken;14;270;4;34;88
+kool;cabbage;groente;23;bloemkool;21;zwart;15;306;7;43;112
+koord;rope;touw;35;circus;16;dansen;16;270;6;39;115
+koorts;fever;ziek;66;warm;38;bed;18;261;3;25;55
+kop;cup/mug;hoofd;51;dier;22;munt;17;249;6;29;86
+kort;short;lang;47;haar;25;klein;19;270;11;29;90
+kostuum;suit;das;25;feest;19;galabal;13;270;1;38;103
+koud;cold;winter;54;ijs;38;sneeuw;36;270;1;25;71
+kous;stocking;sok;31;voet;30;schoen;24;246;8;34;91
+kraai;crow;zwart;80;vogel;55;geluid;7;273;3;25;85
+kraaien;to crow;zwart;37;vogel;35;haan;28;270;17;22;91
+kraam;stall;markt;48;kermis;23;baby;12;273;23;34;93
+kraan;faucet;water;63;bouwwerf;7;hoog;7;246;1;31;108
+krab;crab;zee;67;kreeft;20;lekker;15;309;4;34;89
+kreeft;lobster;rood;44;zee;31;lekker;27;309;2;29;103
+krekel;cricket;lawaai;21;insect;19;groen;17;267;5;33;102
+krijt;chalk;bord;78;wit;45;school;38;270;1;21;61
+krik;jack;auto;57;pech;18;band;15;246;33;24;81
+krokodil;crocodile;groen;37;tanden;34;gevaarlijk;28;270;1;29;86
+krokus;crocus;bloem;53;vakantie;44;lente;31;252;4;19;61
+krom;crooked, bent;banaan;44;recht;38;scheef;24;267;21;19;84
+kroon;crown;koning;56;goud;14;koningin;13;246;1;32;98
+kruid;herb;eten;26;tuin;20;peper;15;273;0;38;99
+kruis;cross;jezus;44;kerk;20;geloof;12;249;7;29;113
+kruiwagen;wheelbarrow;tuin;41;werken;26;wiel;17;270;1;32;102
+kruk;stool;bar;30;zitten;18;stoel;17;273;2;39;118
+kuif;forelock / crest;gel;37;haar;34;kuifje;29;246;8;26;85
+kuiken;chicken;kip;65;geel;38;ei;38;246;0;21;48
+kuisen;to clean;dweil;21;borstel;20;water;17;267;6;40;100
+kurk;cork;wijn;63;fles;34;vloer;23;246;3;22;71
+kurketrekker;bottle opener;wijn;73;fles;22;kurk;20;246;1;29;87
+kus;kiss;liefde;42;lippen;28;mond;18;267;4;27;82
+kussen;pillow;slapen;36;bed;26;zacht;18;246;1;32;78
+kwaken;to quack;eend;53;kikker;29;vijver;18;246;6;26;78
+kwark;quark;yoghurt;23;wit;22;kaas;12;273;50;32;90
+laars;boot;regen;21;winter;13;bot;10;255;1;37;116
+laarzen;boots;regen;40;modder;39;groen;22;267;4;27;100
+ladder;ladder;klimmen;17;hoog;16;trede;13;258;7;37;103
+lade;drawer;kast;59;schuif;31;rommel;28;324;3;40;110
+lama;llama;spuwen;30;dier;25;kameel;21;267;7;28;89
+lamp;lamp;licht;77;warmte;11;warm;7;246;1;33;89
+land;land;belgie;36;zee;10;grond;10;246;2;40;122
+landbouw;agriculture;boer;51;tractor;31;veld;13;246;0;30;85
+landkaart;map;reizen;24;wegen;13;belgie;10;249;2;40;113
+lang;long;kort;44;groot;21;haar;18;270;16;30;115
+lat;ruler;meten;41;school;18;hout;9;246;0;35;90
+lava;lava;vulkaan;64;heet;19;warm;19;246;2;27;72
+lawaai;noise;muziek;18;geluid;17;luid;9;306;8;56;155
+leer;leather;koe;27;jas;19;zetel;17;306;7;43;123
+leeuw;lion;zoo;16;afrika;15;koning;15;270;0;41;105
+leger;army;oorlog;34;groen;23;soldaat;16;255;0;32;100
+leguaan;iguana;groen;38;reptiel;30;hagedis;16;270;11;32;97
+lekker;tasty;eten;41;snoep;18;chocolade;15;267;10;32;110
+lelijk;ugly;mooi;24;vies;20;dik;11;246;5;33;128
+lenig;lithe; supple;turnen;62;ballet;20;soepel;11;270;12;33;106
+lente;spring;zon;38;bloemen;27;groen;22;267;2;31;98
+lenzen;lenses;bril;54;ogen;46;zien;19;258;3;21;91
+lepel;spoon;soep;58;vork;46;mes;31;270;2;20;63
+leraar;teacher;school;38;les;27;saai;16;267;4;35;95
+les;lesson;saai;31;leren;25;school;20;270;2;37;102
+lezen;to read;boek;77;letters;12;bril;10;276;3;36;92
+libel;dragonfly;water;66;vijver;49;blauw;36;489;5;51;136
+licht;light;lamp;45;zon;34;donker;23;246;4;27;88
+lief;sweet;zacht;16;leuk;10;liefde;10;267;12;40;121
+liefde;love;rood;26;hart;16;mooi;14;246;0;37;112
+lieveheersbeestje;ladybug;rood;56;klein;25;vliegen;17;270;1;28;92
+lijm;glue;pritt;29;plakken;28;kleven;16;246;3;29;91
+lijn;line;streep;25;bus;25;recht;19;246;2;36;111
+limoen;lime;groen;40;citroen;37;zuur;36;270;14;20;65
+lippen;lips;rood;54;kussen;30;mond;29;282;1;24;60
+lippenstift;lipstick;rood;59;vrouw;32;lippen;16;249;2;24;81
+lolly;lolly;lekker;34;snoep;32;zoet;22;270;3;32;77
+loodgieter;plumber;water;26;buizen;21;man;11;270;3;33;124
+look;garlic;stank;27;lekker;24;eten;11;270;3;37;106
+lopen;to run;sport;20;moe;11;rennen;9;246;1;39;103
+lucht;air;blauw;49;wolken;23;ademen;13;270;5;33;82
+luchtballon;(hot air) balloon;hoog;28;lucht;28;vliegen;20;270;6;33;98
+lucifer;matches;vuur;67;brand;13;sigaret;13;246;2;29;75
+luier;diaper;baby;75;stank;22;pamper;18;246;0;26;77
+luipaard;leopard;snel;26;dier;16;kat;13;246;2;36;90
+luis;louse;haar;51;jeuk;39;klein;14;273;4;27;90
+lychee;lychee;fruit;28;lekker;15;vrucht;12;279;50;36;87
+maan;moon;nacht;40;zon;25;sterren;16;267;0;32;80
+madeliefje;daisy;bloem;58;wit;27;gras;14;282;7;31;92
+magie;magic;tovenaar;38;toveren;21;heks;17;261;1;39;105
+magneet;magnet;ijzer;19;aantrekking;14;aantrekkingskracht;12;246;7;24;106
+mais;corn;geel;45;veld;39;popcorn;21;267;3;26;97
+man;man;vrouw;62;groot;13;jongen;11;270;14;30;90
+mand;basket;riet;41;fruit;29;was;19;285;4;31;111
+mandarijn;tangerine ;oranje;43;fruit;34;sinterklaas;29;267;7;28;62
+manen;mane;paard;58;leeuw;29;haar;14;270;16;27;100
+mango;mango;fruit;51;exotisch;21;lekker;18;270;6;29;92
+mantel;coat;jas;30;winter;28;warm;23;246;2;32;83
+map;map;school;20;papier;16;kaart;13;264;2;37;123
+margriet;marguerite;bloem;65;hermans;24;wit;19;249;5;23;82
+markt;market place;fruit;19;kraam;19;vis;11;267;3;38;125
+marktkramer;stallholder;eddywally;16;markt;14;roepen;12;270;6;38;126
+masker;mask;carnaval;52;venetie;11;verbergen;9;246;2;28;117
+massage;massage;olie;34;ontspanning;12;ontspannen;8;246;2;40;103
+mat;mat;deur;25;tapijt;14;vloer;12;246;2;32;111
+matroos;sailor;zee;46;schip;43;boot;16;246;0;25;88
+medaille;medal;goud;58;winnen;27;sport;18;282;3;27;82
+medicijnen;medicin;dokter;46;ziek;41;apotheek;13;270;5;25;83
+meer;lake;water;39;zwemmen;15;veel;13;249;2;32;100
+mees;chickadee;vogel;72;klein;20;boom;11;276;4;36;93
+meeuw;seagull;zee;72;vogel;43;strand;16;270;5;25;73
+mei;May;lente;37;maand;26;ei;22;246;1;23;79
+meikever;cockshafer;insect;27;lente;20;mei;13;273;6;37;112
+meisje;girl;jongen;35;mooi;16;vrouw;15;267;20;29;112
+melk;milk;koe;64;wit;48;lekker;10;270;0;30;72
+meloen;melon;fruit;32;lekker;29;zomer;25;267;0;27;71
+mens;human;dier;23;man;19;vrouw;17;267;12;37;121
+merel;blackbird;vogel;67;zwart;29;fluiten;12;270;6;23;75
+mes;knife;scherp;43;snijden;34;vork;28;267;6;20;69
+metaal;metal;ijzer;36;hard;20;grijs;17;255;1;30;103
+meten;to measure;lat;40;lengte;21;meter;19;258;3;28;82
+metrostel;subway train;trein;15;ondergronds;13;donker;12;267;18;38;108
+meubel;furniture;stoel;51;kast;46;tafel;43;306;0;23;85
+micro;microphone;zingen;25;klein;21;geluid;17;246;5;31;97
+microgolf;microwave oven;eten;92;warm;50;snel;25;489;7;41;156
+microscoop;microscope;klein;35;onderzoek;22;labo;17;258;4;37;99
+middeleeuwen;middle ages;kasteel;30;ridders;27;ridder;23;276;0;26;129
+mier;ant;klein;44;insect;16;zwart;13;270;6;37;103
+mijn;mine;steenkool;13;kolen;12;ik;11;246;5;34;128
+milkshake;milkshake;melk;38;banaan;34;ijs;19;270;0;27;70
+minister;minister;politiek;29;regering;20;verhofstadt;17;267;4;39;109
+mis;mass;kerk;63;fout;36;verkeerd;17;246;0;24;73
+mitrailleur;machinegun;oorlog;48;geweer;24;leger;19;279;16;25;92
+mixer;mixer;soep;22;keuken;21;milkshake;17;267;6;37;106
+modder;mud;vuil;51;bruin;27;water;14;270;5;30;86
+moeder;mother;vader;22;mama;19;liefde;13;246;2;34;120
+moeilijk;difficult;examen;20;makkelijk;15;gemakkelijk;13;267;19;30;138
+moer;nut;vijs;36;bout;24;sleutel;19;249;15;28;100
+moersleutel;wrench;garage;21;auto;18;fiets;15;270;6;38;107
+molen;mill;wieken;33;wind;31;graan;30;276;3;33;82
+mond;mouth;tong;44;lippen;35;tanden;29;270;0;20;52
+mondharmonica;harmonica;muziek;58;instrument;21;blazen;11;270;7;33;113
+mooi;beautiful;natuur;13;meisje;13;lelijk;13;270;9;45;129
+mossel;mussel;zee;52;schelp;21;eten;18;303;2;31;104
+mot;moth;vlinder;26;kleren;14;kast;14;273;11;38;96
+moto;motorbike;snel;24;helm;23;snelheid;21;270;8;32;110
+muffin;muffin;chocolade;31;lekker;24;cake;15;285;13;33;93
+mug;mosquito;jeuk;26;zomer;20;bloed;15;264;1;37;91
+muis;mouse;kat;34;grijs;30;kaas;30;270;2;29;74
+muizeval;mouse trap;kaas;52;muis;37;dood;21;246;0;22;77
+munt;coin;geld;43;euro;17;kruid;17;246;2;30;97
+mus;sparrow;vogel;60;klein;26;vliegen;11;270;2;37;91
+muts;beanie;winter;48;warm;38;sneeuw;25;267;3;22;51
+muur;wall;huis;39;baksteen;22;steen;19;270;7;28;88
+muziek;music;radio;23;cd;17;dansen;12;270;1;38;134
+muziekinstrument;musical instrument;piano;43;gitaar;42;viool;19;270;5;28;93
+muzieknoot;(musical) note;do;28;re;20;mi;17;246;0;28;90
+naaien;to sew;naald;51;draad;42;naaimachine;19;258;1;23;77
+naaimachine;sewing machine;naald;27;draad;26;stikken;19;249;8;25;82
+naald;needle;draad;47;naaien;42;prik;16;258;1;25;89
+nacht;night;donker;68;sterren;36;maan;31;270;1;20;45
+nagel;nail;hamer;37;vinger;26;nagellak;20;270;8;31;94
+nagels;nails;bijten;22;nagellak;21;knippen;19;276;7;29;96
+nat;wet;regen;56;water;45;droog;14;270;2;25;81
+natuur;nature;groen;47;bos;33;boom;22;321;4;33;116
+nectarine;nectarine;fruit;34;sappig;24;lekker;21;267;4;26;68
+nek;neck;hals;34;hoofd;23;ketting;19;270;11;29;87
+nest;nest;vogel;71;ei;35;boom;24;270;6;24;63
+net;net;vissen;30;proper;29;vis;19;270;5;34;105
+neus;nose;ruiken;25;zakdoek;20;snot;19;306;2;44;110
+neushoorn;rhinoceros;grijs;30;afrika;26;dier;18;270;1;34;94
+nijlpaard;hippopotamus;dik;29;water;25;zoo;24;267;5;29;70
+noordpool;Northpole;koud;54;ijs;40;ijsbeer;27;267;0;20;56
+noot;nut / note;muziek;44;eten;21;kraken;21;267;2;37;95
+noten;notes;muziek;37;boom;27;eten;13;270;5;31;110
+notenbalk;staff;muziek;71;noten;18;solsleutel;15;246;4;25;68
+notenkraker;nutcracker;noot;24;noten;22;hard;13;270;7;35;109
+ober;waiter;cafe;28;restaurant;21;drank;20;249;2;31;96
+ochtend;morning;zon;26;moe;19;ontbijt;16;246;1;31;81
+oester;oister;zee;34;schelp;26;parel;19;306;2;33;96
+ogen;eyes;blauw;38;mooi;18;zien;17;246;1;28;73
+olie;oil;auto;20;vettig;15;bakken;11;249;3;48;111
+oliebol;doughnut ball;kermis;55;vettig;23;lekker;21;246;2;22;73
+oliespuit;oilcan;auto;21;zwart;15;vettig;14;267;46;29;104
+olifant;elephant;grijs;43;groot;41;slurf;34;264;3;25;70
+olijf;olive;groen;50;olie;36;lekker;21;306;0;30;86
+oma;grandma;oud;42;opa;33;lief;28;273;3;36;90
+omelet;omelet;ei;68;pan;33;spek;18;270;3;24;71
+onderbroek;underpants;wit;30;string;21;slip;18;270;18;30;100
+ondergoed;underwear;wit;26;bh;20;onderbroek;17;270;5;35;104
+ondergronds;underground;metro;44;donker;27;tunnel;17;270;4;28;90
+onderlegger;place mat;tafel;73;eten;53;glas;38;591;7;65;181
+ongezond;unhealthy;roken;22;dik;19;vet;18;246;1;33;87
+ontbijt;breakfast;koffie;34;brood;26;cornflakes;15;306;1;39;103
+ontploffing;explosion;bom;35;vuur;25;knal;18;249;1;30;91
+ontspanning;recreation;sport;15;rust;14;tv;12;273;1;44;107
+oog;eye;bril;33;zien;32;blauw;20;246;2;30;79
+ooievaar;stork;baby;35;vogel;29;nest;25;270;0;31;78
+oor;ear;horen;38;oorbel;26;luisteren;19;273;7;34;87
+oorbel;earring;oor;41;mooi;27;goud;24;375;3;37;130
+oorlog;war;dood;15;geweld;14;wapens;14;273;1;41;104
+oorworm;earwig;vies;40;oor;16;insect;16;267;25;36;110
+opstaan;to stand up;moe;29;bed;27;wekker;26;258;1;27;82
+opvoedster;educator;kinderen;35;vrouw;28;kind;12;267;3;31;132
+oranje;orange;appelsien;34;nederland;26;kleur;23;270;14;23;81
+orchidee;orchid;bloem;64;mooi;20;wit;12;246;5;27;100
+oren;ears;horen;42;luisteren;19;geluid;13;270;4;32;93
+orgel;organ;kerk;77;muziek;45;piano;13;264;3;23;82
+orka;orca;zee;38;groot;24;water;23;270;2;23;65
+orkest;orchestra;muziek;51;dirigent;26;viool;15;270;9;39;89
+oud;old;oma;21;jong;16;grootouders;15;246;3;30;93
+oudheid;antiquity;geschiedenis;29;romeinen;19;grieken;16;246;6;30;118
+oven;oven;warm;53;pizza;26;eten;24;270;1;27;86
+paard;horse;dier;16;rijden;15;ruiter;12;270;11;37;120
+paarden;horses;manege;19;stal;12;zadel;11;270;4;41;134
+paardrijden;horseback riding;paard;27;zadel;19;sport;13;276;1;34;120
+paars;purple;kleur;37;blauw;11;anderlecht;10;270;21;34;114
+pad;toad;kikker;38;groen;25;vijver;15;249;2;28;85
+paddestoel;mushroom;kabouter;46;bos;43;giftig;15;270;10;26;80
+paella;paella;rijst;46;spanje;43;vis;19;264;8;23;68
+pak;suit / package;kostuum;36;cadeau;21;slaag;13;246;7;30;106
+pakje;parcel;cadeau;29;strik;18;post;15;252;3;32;93
+palet;palette;verf;26;schilder;24;hout;21;276;10;32;110
+paling;eel;vis;45;groen;28;glad;25;267;2;22;66
+pallet;palette;hout;20;schilder;19;verf;18;246;5;31;99
+palmboom;palm tree;strand;47;kokosnoot;31;zon;27;300;1;24;88
+pan;pan;eten;33;vlees;24;koken;24;270;0;28;63
+panda;panda;beer;60;bamboe;25;china;15;306;1;31;89
+panfluit;pan flute;muziek;51;hout;10;instrument;8;270;15;29;133
+pannenkoek;pancake;suiker;44;lekker;35;eten;17;255;3;27;71
+pantoffel;carpet slipper;warm;24;sloef;18;winter;15;246;5;33;96
+papaya;papaya;fruit;29;vrucht;27;exotisch;27;267;37;27;84
+papegaai;parrot;vogel;38;praten;27;kleuren;22;267;4;33;90
+paperclip;paperclip;papier;58;ijzer;18;bureau;14;246;4;26;93
+papfles;baby bottle;baby;76;melk;49;warm;8;246;0;24;69
+papier;paper;schrijven;33;wit;31;pen;26;267;1;29;97
+paprika;pepper;rood;50;chips;26;groen;18;270;9;23;79
+parachute;parachute;vliegtuig;37;springen;35;vallen;23;255;5;33;82
+paraplu;umbrella;regen;77;nat;18;wind;10;246;3;24;92
+parijs;Paris;eifeltoren;30;eiffeltoren;22;frankrijk;16;246;0;34;91
+park;park;gras;29;groen;27;bomen;20;270;2;37;84
+parkiet;parakeet;vogel;53;geel;48;kooi;40;267;1;20;74
+parlement;parliament;politiek;26;regering;21;minister;17;246;3;28;108
+passievrucht;passion fruit;lekker;29;fruit;25;exotisch;13;270;10;38;102
+pasta;pasta;spaghetti;48;italie;38;lekker;24;270;0;30;81
+pauw;peacock;staart;22;veren;21;kleuren;21;270;3;27;79
+peer;pear;fruit;50;appel;47;groen;17;270;3;23;87
+pelikaan;pelican;vogel;49;bek;28;vis;28;267;6;31;85
+penseel;paintbrush;verf;58;schilderen;36;schilderij;19;246;2;20;65
+peper;pepper;zout;63;niezen;22;eten;20;270;6;28;68
+peperkoek;gingerbread;suiker;19;lekker;19;bruin;19;246;1;34;91
+periscoop;periscope;duikboot;34;kijken;15;water;12;246;37;30;93
+perzik;peach;fruit;43;zoet;19;zacht;19;273;3;34;88
+pesto;pesto;pasta;37;groen;27;italie;22;273;39;22;64
+pet;cap;hoofd;39;zon;38;hoed;31;402;3;46;143
+peterselie;parsley;groen;57;soep;21;groente;19;270;11;26;92
+piano;piano;muziek;45;toetsen;22;vleugel;15;264;1;34;87
+pijl;arrow;boog;68;indiaan;28;schieten;11;246;1;23;82
+pijn;pain;bloed;18;wonde;15;ziekenhuis;13;270;18;39;133
+pijp;pipe;tabak;35;rook;30;roken;27;249;1;29;99
+pikant;savoury;peper;22;eten;18;saus;18;270;16;30;102
+pilaar;pillar;kerk;24;zuil;19;steun;19;255;8;32;94
+pillen;pills;ziek;31;dokter;18;drugs;18;246;3;34;83
+piloot;pilot;vliegtuig;71;uniform;14;lucht;12;267;1;37;103
+pincet;tweezers;splinter;39;pijn;17;haar;14;246;6;26;98
+pindanoot;peanut;aap;33;zout;20;pindakaas;15;246;1;30;100
+pingpong;ping-pong;tafel;51;balletje;29;bal;19;246;0;26;71
+pinguïn;penguin;ijs;33;koud;30;noordpool;16;267;1;32;76
+piraat;pirate;schip;32;boot;20;zee;19;246;0;31;91
+piramide;pyramid;egypte;74;farao;25;zand;15;249;0;21;82
+piranha;piranha;vis;51;tanden;27;gevaarlijk;22;270;2;32;85
+pissebed;wood louse;vies;38;insect;33;grijs;14;270;7;33;104
+pistolet;bread roll;bakker;42;lekker;23;zondag;20;246;2;23;69
+pistool;pistol;dood;24;kogel;22;schieten;21;279;1;34;96
+pit;pip; stone;appel;30;fruit;15;perzik;12;246;8;31;101
+pita;pita;vlees;30;lekker;25;eten;16;264;3;28;88
+pizza;pizza;italie;29;lekker;24;kaas;21;270;2;30;101
+plaat;record;muziek;44;lp;13;cd;10;246;4;29;118
+pladijs;plaice;vis;74;zee;40;plat;31;276;12;22;65
+plamuurmes;filling-knife;muur;21;wit;16;huis;12;270;44;37;97
+plan;plan;idee;24;kaart;22;huis;15;270;11;35;118
+plank;board;hout;57;lat;9;nagel;9;246;1;34;99
+plant;plant;groen;67;water;20;natuur;14;306;0;33;105
+plastiek;plastic;fles;24;speelgoed;12;zak;12;246;3;38;123
+plat;flat;dun;13;vlak;11;pannekoek;10;264;25;38;127
+platenspeler;record player;muziek;28;oud;18;lp;17;249;3;28;96
+platvis;flatfish;zee;40;water;19;eten;13;267;23;30;101
+pleister;bandage;wonde;51;pijn;32;bloed;25;246;2;25;90
+ploeg;plough;voetbal;32;team;24;sport;16;270;3;33;112
+pluimpje;tuft; shuttle;licht;30;vogel;28;zacht;22;249;0;31;78
+poef;hassock;zitten;21;zetel;17;paf;10;246;7;34;119
+poema;cougar;dier;22;kat;19;snel;16;306;2;41;110
+politie;police;blauw;36;uniform;15;boete;10;246;3;30;120
+politieagent;policeman;blauw;40;uniform;25;boete;15;267;6;31;96
+politiek;politics;saai;13;minister;12;regering;10;267;13;31;144
+pollepel;ladle;soep;68;eten;13;keuken;13;249;8;23;90
+polo;sports shirt;sport;36;paard;24;water;15;261;8;28;93
+pomp;pump;water;63;fiets;28;benzine;23;300;3;36;113
+pompelmoes;grapefruit;bitter;35;fruit;20;rond;15;267;6;31;74
+pompoen;pumpkin;oranje;56;halloween;55;soep;52;267;1;18;60
+pony;pony;paard;57;klein;32;kinderen;11;309;2;33;105
+poot;paw;hond;42;tafel;40;dier;33;249;6;24;67
+pop;doll;meisje;29;spelen;25;kind;20;246;0;31;94
+popcorn;popcorn;cinema;33;film;29;mais;28;246;0;19;82
+portefeuille;wallet;geld;76;leder;14;paspoort;11;246;2;29;74
+portemonnee;purse;geld;95;leder;17;bankkaart;11;300;1;39;100
+post;mail;brief;53;postbode;40;postzegel;15;267;1;30;85
+postbode;postman;brief;44;fiets;32;post;20;267;3;25;75
+postzegel;stamp;brief;56;post;19;likken;13;246;0;31;82
+pot;jar;koken;53;deksel;43;pan;21;588;6;64;188
+poten;paws;tafel;44;dier;39;stoel;28;303;17;27;80
+potlood;pencil;gom;23;schrijven;22;tekenen;20;246;1;27;81
+potvis;sperm whale;zee;49;groot;28;strand;18;267;2;30;84
+praten;to talk;babbelen;21;mond;17;gesprek;12;270;14;38;107
+prehistorie;prehistory;geschiedenis;17;dinosaurus;14;oermens;14;246;1;41;111
+prei;leek;soep;44;groente;31;groen;29;267;9;31;82
+priester;priest;kerk;66;kruis;15;mis;9;246;2;31;92
+problemen;problems;oplossen;22;oplossing;16;moeilijk;9;249;3;40;130
+proper;clean;kuisen;18;vuil;18;poetsen;15;276;1;42;104
+pruik;wig;haar;44;kaal;33;kanker;14;249;1;31;89
+pruim;plum;fruit;35;paars;26;boom;25;270;6;36;87
+psycholoog;psychologist;dokter;13;praten;13;problemen;12;270;9;39;143
+puck;puck;hockey;37;ijshockey;17;ijs;15;246;31;23;88
+pudding;pudding;geel;44;lekker;27;dessert;18;267;6;26;88
+pull;sweater;warm;38;winter;33;trui;29;246;8;21;68
+punt;point;komma;33;einde;25;zin;23;255;3;32;91
+puree;puree;aardappel;32;aardappelen;28;lekker;20;270;6;33;83
+puzzel;puzzle;stukjes;26;moeilijk;11;spel;8;246;4;39;117
+pyjama;pyjamas;slapen;55;bed;47;nacht;19;270;2;30;88
+python;python;slang;75;gevaarlijk;19;wurgen;15;273;24;32;92
+raam;window;glas;34;venster;30;buiten;11;270;1;32;94
+rabarber;rhubarb;zuur;53;confituur;27;taart;17;300;2;31;92
+racen;to race;auto;56;snel;20;formuleeen;17;264;1;32;97
+racket;racquet;tennis;66;ruimte;25;bal;19;270;8;29;75
+rad;wheel;kermis;25;fortuin;24;wiel;24;246;6;27;86
+radijs;radish;rood;53;groente;25;tuin;14;267;6;30;83
+radio;radio;muziek;58;nieuws;16;lawaai;11;246;1;29;88
+raket;rocket;maan;37;ruimte;32;tennis;19;267;2;31;105
+ramp;disaster;tsunami;23;aardbeving;12;natuur;11;270;7;40;132
+rasp;grater;kaas;43;wortel;31;wortelen;18;270;11;32;94
+rat;rat;muis;40;vies;34;riool;18;267;0;31;83
+recht;right;krom;31;lijn;17;advocaat;17;270;6;34;118
+rechtbank;court;advocaat;46;rechter;45;straf;9;270;5;30;97
+rechter;judge;rechtbank;27;advocaat;19;toga;18;270;1;45;115
+regen;rain;nat;58;paraplu;40;koud;17;273;2;28;93
+regenboog;rainbow;regen;58;kleuren;58;zon;44;294;0;21;77
+regering;government;politiek;25;parlement;20;ministers;17;246;2;31;91
+reiger;heron;vogel;53;vis;33;vijver;26;270;2;24;70
+reis;travel, trip;zon;29;vliegtuig;26;vakantie;20;270;1;40;109
+reizen;to travel;vliegtuig;33;zon;20;vakantie;16;249;0;34;108
+rek;rack;boeken;22;elastiek;12;winkel;10;276;5;42;146
+reptiel;reptile;slang;34;hagedis;31;krokodil;24;267;6;27;84
+restaurant;restaurant;eten;71;lekker;20;gezellig;16;267;1;27;105
+revolver;revolver;schieten;30;dood;20;geweer;18;249;1;25;91
+ribben;ribs;lichaam;26;eten;21;borstkas;14;261;0;40;84
+ridder;knight;paard;41;zwaard;23;middeleeuwen;23;249;2;22;87
+riek;three-pronged fork;boer;42;hooi;26;tuin;13;246;21;22;85
+riem;belt;broek;76;leer;19;gesp;14;267;9;30;94
+riet;reed;water;16;vijver;14;suiker;13;246;2;40;111
+rijbewijs;(driving) licence;auto;70;examen;18;vrijheid;8;270;16;33;100
+rijden;to drive;auto;82;fiets;31;paard;17;267;1;26;76
+rijk;rich;geld;61;arm;28;villa;9;255;2;25;109
+rijst;rice;eten;25;china;23;kip;20;267;5;33;88
+ring;ring;trouwen;32;goud;22;rond;20;267;4;28;76
+ritme;rhythm;muziek;64;dansen;24;dans;23;249;2;23;100
+rits;zipper;broek;71;jas;38;open;11;267;13;26;77
+robot;robot;metaal;14;toekomst;13;machine;11;246;2;40;125
+rock;rock;muziek;51;gitaar;24;festival;16;270;7;35;104
+rodekool;red cabbage;rood;24;lekker;21;groente;19;270;3;33;89
+roepen;to shout;luid;32;schreeuwen;28;boos;19;267;9;25;91
+roest;rust;ijzer;37;bruin;17;oud;16;246;1;27;88
+rog;ray;vis;63;zee;38;plat;25;267;12;21;86
+rok;skirt;zomer;41;vrouw;30;kort;30;399;0;46;128
+roken;to smoke;sigaret;27;ongezond;23;stank;19;246;0;29;87
+rolschaats;roller skate;vallen;24;wieltjes;15;sport;7;246;4;38;131
+rolstoel;wheelchair;gehandicapt;21;wielen;20;gehandicapte;11;246;3;36;113
+rond;round;bal;51;cirkel;39;bol;23;270;7;25;84
+rood;red;bloed;40;liefde;26;kleur;21;270;8;28;92
+roodborstje;robin;vogel;60;rood;23;klein;18;270;3;28;92
+roofvogel;bird of prey;arend;52;valk;15;gier;14;270;3;33;96
+rook;smoke;vuur;52;sigaret;44;brand;33;252;2;24;73
+roomsoes;cream puff;lekker;31;bakker;30;slagroom;13;249;13;31;89
+roos;rose;bloem;63;rood;55;liefde;25;306;4;25;87
+ros;steed; pink;paard;52;haar;30;kleur;15;249;16;22;77
+roze;pink;kleur;18;barbie;17;varken;14;273;11;29;114
+rubber;rubber;zwart;25;boom;18;condoom;16;246;6;31;105
+rugby;rugby;sport;32;bal;32;amerika;15;270;1;34;111
+rugbybal;rugbyball;sport;36;ovaal;25;amerika;12;246;1;32;105
+rugzak;backpack;school;22;vakantie;20;zwaar;17;246;2;30;105
+ruiken;to smell;neus;51;geur;29;parfum;21;255;3;22;65
+ruimte;space;sterren;27;maan;18;astronaut;16;270;0;35;98
+ruiter;horseman;paard;79;zadel;9;laarzen;8;246;2;28;91
+rups;caterpillar;vlinder;51;groen;20;blad;11;267;11;30;95
+ruw;rough;hard;32;schuurpapier;15;steen;11;246;8;35;111
+saai;boring;les;27;vervelend;13;verveling;12;270;28;35;131
+safari;safari;jeep;40;afrika;34;leeuw;22;270;0;29;81
+salamander;salamander;groen;25;staart;15;water;14;264;7;34;102
+salon;drawing room;zetel;45;tv;14;tafel;14;249;1;32;102
+salopet;dungarees;jeans;28;broek;27;blauw;15;270;16;35;116
+sandwich;sandwich;kaas;29;eten;27;lekker;17;246;7;24;82
+sap;juice;fruit;38;appel;16;appelsien;16;255;2;29;91
+sappig;juicy;fruit;43;appel;20;appelsien;20;270;5;38;82
+sardine;sardine;vis;58;blik;38;zee;18;270;11;25;77
+saus;sauce; gravy;vlees;22;eten;20;spaghetti;20;309;9;41;111
+saxofoon;saxophone;muziek;54;jazz;33;blazen;14;267;3;26;97
+schaaf;plane;hout;31;wonde;22;pijn;19;279;68;26;100
+schaap;sheep;wol;72;wei;20;wit;18;270;2;30;93
+schaar;scissors;knippen;51;papier;47;scherp;23;270;8;20;75
+schaatsen;skate;ijs;62;vallen;25;koud;25;267;7;26;81
+schakelaar;switch;licht;70;electriciteit;19;aan;17;246;5;21;74
+schaken;chess;koning;18;paard;17;moeilijk;12;267;5;39;99
+scharnier;hinge;deur;75;piepen;22;olie;12;246;4;27;78
+scheermes;razor;baard;31;scherp;25;schuim;16;255;3;33;72
+schelp;shell;zee;63;strand;46;zand;20;249;2;22;74
+schermen;fencing;sport;30;zwaard;25;wit;17;267;14;29;110
+scherp;sharp;mes;75;pijn;20;punt;18;270;19;26;77
+schieten;to shoot;geweer;47;dood;15;kogel;13;246;2;31;94
+schild;shield;ridder;53;schildpad;35;bescherming;18;270;4;24;66
+schilderen;to paint;verf;47;penseel;17;schilderij;15;267;3;28;92
+schilderij;painting;verf;34;museum;18;kunst;17;249;0;27;87
+schildpad;turtle;traag;51;groen;30;schild;24;267;0;30;86
+schillen;to peel;appel;39;mes;28;aardappel;26;255;9;23;76
+schip;ship;zee;44;boot;35;water;31;273;0;29;69
+schoen;shoe;veter;28;voet;19;zool;12;246;0;36;97
+schoenen;shoes;veters;29;winkel;12;voeten;10;267;1;38;117
+schommel;swing;kinderen;30;tuin;19;kind;16;246;0;32;88
+schommelstoel;rocker;oma;27;oud;14;opa;13;330;3;48;158
+school;school;leren;25;boeken;17;les;14;270;3;43;108
+schoorsteen;chimney;rook;43;roet;27;zwart;19;249;4;26;59
+schop;shovel;tuin;31;zand;26;aarde;21;270;5;26;95
+schoppe;spades;kaarten;21;aas;10;zwart;10;246;63;26;86
+schorpioen;scorpion;woestijn;19;gevaarlijk;18;gif;16;246;2;33;90
+schorseneren;black salsify;wit;29;groente;20;eten;15;264;35;26;91
+schort;apron;keuken;108;koken;64;vuil;41;591;6;66;174
+schot;shot;geweer;45;roos;25;pistool;12;246;0;28;92
+schotland;Scotland;doedelzak;25;kilt;23;rok;18;270;4;36;107
+schouder;shoulder;pijn;19;arm;15;lichaam;10;246;7;36;115
+schrijven;to write;pen;50;papier;39;boek;19;246;0;22;66
+schroef;screw; propeller;schroevendraaier;30;vijs;20;draaien;18;273;8;42;98
+schroevendraaier;screwdriver;gereedschap;21;vijs;20;werken;18;270;9;38;118
+secretaresse;secretary;bureau;33;computer;20;bril;16;267;2;29;104
+selder;celery;soep;48;groen;41;groente;39;270;6;18;71
+sexy;sexy;lingerie;17;vrouw;15;knap;10;270;13;39;132
+short;shorts;zomer;45;kort;20;broek;16;273;7;33;87
+sigaar;cigar;roken;26;rook;24;stank;16;246;0;29;85
+sigaret;cigarette;rook;32;ongezond;31;roken;20;264;0;34;74
+sinaasappel;orange;oranje;69;rond;19;fruit;17;270;1;25;77
+sinterklaas;St Nicholas;zwartepiet;54;mijter;18;speelgoed;16;318;1;31;84
+sjaal;scarf;winter;55;warm;40;koud;26;264;1;28;70
+sjalot;shallot;ui;39;ajuin;30;tranen;18;300;12;31;112
+skateboard;skateboard;vallen;20;wieltjes;20;ramp;18;270;10;36;121
+skatebord;skateboard;vallen;14;wieltjes;10;jongeren;10;246;3;37;119
+skelet;skeleton;dood;31;geraamte;22;wit;18;270;3;32;99
+skiën;ski;sneeuw;77;vakantie;11;wit;10;270;0;34;85
+skis;skis;sneeuw;55;latten;14;koud;11;246;32;26;69
+sla;lettuce;groen;54;groente;26;tomaat;14;267;0;32;78
+slaan;to hit;pijn;46;ruzie;11;vechten;11;246;4;34;103
+slager;butcher;vlees;70;mes;25;bloed;24;270;7;26;84
+slagroom;whipping cream;taart;43;ijs;40;wit;28;270;4;26;83
+slak;snail;traag;57;slijm;42;huisje;22;258;1;24;64
+slang;snake;gif;18;lang;14;giftig;14;270;2;41;115
+slapen;to sleep;bed;62;kussen;21;dromen;20;270;1;30;65
+slazwierder;salad spinner;water;30;sla;28;groen;16;264;18;30;91
+slede;sled;sneeuw;79;winter;25;glijden;12;273;5;26;89
+slee;sled;sneeuw;84;winter;22;kerstman;15;273;1;29;68
+sleutel;key;deur;62;slot;32;huis;18;270;4;27;75
+slijper;sharpener;potlood;69;scherp;13;punt;11;246;2;28;88
+slijpschijf;grinding disc;scherp;22;lawaai;17;werken;16;270;15;36;105
+slim;smart;intelligent;21;dom;18;iq;14;246;4;35;113
+slip;panties;ondergoed;32;onderbroek;19;wit;16;270;6;33;111
+slot;lock;sleutel;41;deur;33;einde;28;246;3;19;77
+slurf;trunk;olifant;88;grijs;19;lang;16;267;13;22;77
+sluw;sly;vos;83;slim;22;listig;7;267;21;23;92
+smaak;taste;lekker;40;tong;32;eten;27;270;10;20;81
+smid;blacksmith;ijzer;33;hoefijzer;28;vuur;26;270;5;26;84
+snaar;string / chord;gitaar;77;viool;47;muziek;26;270;3;20;66
+snack;snack;eten;19;broodje;16;lekker;15;303;3;44;118
+snaren;strings / chords;gitaar;78;viool;50;muziek;24;267;6;16;62
+snavel;bill / beak;vogel;74;bek;42;eend;17;267;4;25;73
+sneeuw;snow;wit;66;koud;47;winter;19;270;0;26;76
+sneeuwman;snowman;winter;39;wortel;36;koud;27;246;0;25;67
+snel;fast;vlug;24;auto;23;lopen;18;270;11;35;108
+snelheid;speed;auto;55;lopen;9;vliegtuig;9;270;8;40;121
+snijden;to cut;mes;67;bloed;34;pijn;30;267;4;19;63
+snoek;pike;vis;67;water;35;vissen;13;270;14;29;80
+snoep;candy;lekker;43;zoet;31;ongezond;14;273;5;33;90
+soep;soup;warm;41;groenten;23;balletjes;17;270;3;25;98
+soeplepel;ladle;soep;55;eten;26;vork;12;270;3;39;95
+sokken;socks;voeten;25;schoenen;23;warm;21;270;4;35;91
+soldaat;soldier;oorlog;51;leger;36;geweer;24;252;0;21;97
+sorbet;sherbert;ijs;61;koud;22;lekker;20;270;5;30;85
+spaarvarken;piggy bank;geld;68;roze;21;sparen;16;258;8;20;83
+spaghetti;spaghetti;saus;28;italie;22;lekker;18;273;2;28;87
+spanje;Spain;zon;59;zee;25;strand;22;270;2;26;83
+spatel;spatula;dokter;15;koken;12;keuken;11;270;35;33;119
+specht;woodpecker;boom;61;vogel;56;snavel;20;270;1;29;75
+speculoos;speculoos (type of spiced biscuit);sinterklaas;50;koffie;35;lekker;27;273;2;27;71
+speelgoed;toy;pop;25;kinderen;23;sinterklaas;23;270;0;31;80
+speeltuin;playground;kinderen;55;schommel;47;glijbaan;29;276;0;23;59
+speer;spear;scherp;22;punt;21;werpen;21;282;2;34;109
+spek;bacon;varken;42;vet;37;eieren;34;270;1;19;60
+spel;game;kinderen;14;leuk;11;plezier;10;246;1;41;119
+spelen;to play;kinderen;32;plezier;19;bal;17;270;0;40;107
+spiegel;mirror;badkamer;21;glas;17;beeld;12;246;3;41;98
+spijker;nail;hamer;64;muur;24;nagel;17;270;4;27;70
+spin;spider;web;34;zwart;24;poten;20;267;5;36;89
+spinazie;spinach;groen;65;popeye;29;sterk;23;270;3;24;64
+spinneweb;cobweb;spin;63;vies;20;vlieg;15;246;0;26;105
+spinnewiel;spinning wheel;wol;37;doornroosje;24;sprookje;18;246;4;28;86
+splinter;splinter;hout;73;pijn;61;pincet;23;249;1;15;55
+spook;ghost;wit;53;laken;22;geest;14;276;1;37;93
+spoor;rail;trein;78;weg;10;station;10;270;6;28;126
+sport;sport;voetbal;32;tennis;20;zwemmen;16;270;3;43;101
+sportvissen;sport fishing;hengel;34;saai;22;water;21;270;15;32;107
+springen;to jump;trampoline;27;hoog;13;touw;11;270;7;44;120
+springtouw;skipping rope;springen;20;kinderen;18;speelplaats;13;249;1;31;106
+sprinkhaan;grasshopper;groen;44;springen;23;gras;23;270;6;26;102
+sprookje;fairytale;sneeuwwitje;19;roodkapje;14;prinses;12;279;1;39;103
+spruiten;brussels' sprouts;groen;55;vies;20;eten;16;270;5;32;89
+spuit;syringe;dokter;29;pijn;22;naald;16;246;4;30;78
+spuwen;to spit;vies;36;speeksel;32;slijm;9;246;5;30;106
+squash;squash;sport;30;racket;25;bal;24;270;1;28;75
+staalborstel;wire brush;hard;21;kuisen;15;roest;12;282;65;34;94
+staart;tail;hond;32;dier;30;kat;23;267;5;27;88
+stad;city;winkels;15;druk;15;leuven;13;249;0;34;119
+stank;stench;geur;17;vies;16;zweet;13;270;13;37;120
+statief;stand; tripod;fototoestel;24;foto;22;camera;15;246;23;38;115
+station;station;trein;83;wachten;21;perron;11;270;0;28;90
+steek;sting / stab;pijn;32;bij;31;wesp;25;270;9;25;94
+steen;stone;hard;53;huis;17;rots;16;267;4;34;95
+stekelbaars;stickleback;vis;68;water;27;zee;23;267;13;23;82
+stekels;prickles; quills;egel;67;pijn;30;cactus;12;267;10;28;79
+steken;to sting;pijn;32;bij;27;mes;24;270;4;26;99
+stekker;plug;stopcontact;36;electriciteit;30;elektriciteit;21;246;5;30;91
+step;kick scooter;fiets;27;kind;20;kinderen;18;480;18;71;203
+ster;star;hemel;40;nacht;21;maan;20;249;1;29;104
+sterk;strong;spieren;28;beer;17;kracht;16;264;11;42;94
+sterrenbeeld;star sign;horoscoop;17;maagd;17;tweeling;14;246;0;32;77
+stethoscoop;stethoscope;dokter;69;koud;25;hart;19;249;6;24;71
+stewardess;stewardess;vliegtuig;74;vrouw;14;uniform;11;270;1;30;84
+stick;stick;hockey;23;stok;15;computer;14;246;32;26;104
+stinkdier;skunk;stank;27;zwart;20;zwartwit;13;249;12;30;105
+stoel;stool;zitten;61;tafel;34;poten;23;276;2;29;87
+stof;cloths / fabrics;vuil;22;kleding;13;stofzuiger;13;270;14;36;114
+stofzuiger;vacuum cleaner;stof;38;lawaai;28;kuisen;24;267;1;29;102
+stok;stick;slaan;31;boom;30;hout;24;270;11;30;90
+stokjes;(small sticks);chinees;40;hout;19;mikado;16;246;4;24;95
+stop;stop / plug;rood;21;verkeersbord;18;verkeer;17;288;5;39;111
+stopcontact;socket;stekker;45;elektriciteit;43;electriciteit;19;288;0;33;80
+straatmuzikant;busker;gitaar;29;geld;25;muziek;21;258;1;29;105
+strak;tight;broek;19;spannend;13;vast;8;246;8;42;132
+strand;beach;zee;69;zand;47;zon;41;270;0;19;63
+streng;severe;strict;ouders;21;school;18;leraar;15;270;20;31;117
+strepen;stripes;zebra;45;zebrapad;25;lijnen;14;270;9;33;116
+strijkijzer;flat-iron;warm;26;strijkplank;22;stoom;21;246;6;25;75
+strijkplank;ironing board;strijkijzer;37;was;29;strijken;20;258;1;27;97
+strik;bow tie;cadeau;20;das;16;haar;14;249;4;42;96
+string;string;ondergoed;21;sexy;17;vrouw;16;270;10;41;126
+struik;bush;shrub;groen;40;bos;26;boom;18;246;4;25;81
+struisvogel;ostrich;ei;37;groot;18;zand;17;270;7;34;94
+stukjes;pieces;puzzel;25;kapot;15;deeltjes;12;264;3;34;117
+stuur;wheel / handlebar;auto;83;rond;27;fiets;27;270;5;21;67
+suiker;sugar;zoet;51;koffie;21;lekker;19;270;1;32;93
+supporter;fan;voetbal;62;sport;16;hooligan;15;246;4;26;87
+surfen;surf;water;35;zee;34;golven;20;270;1;24;85
+sushi;sushi;vis;44;japan;26;eten;21;267;5;21;64
+sweater;sweater;warm;49;trui;25;winter;19;270;4;33;87
+synthesizer;synthesizer;muziek;64;piano;40;toetsen;12;267;5;25;107
+t-shirt;t-shirt;zomer;41;wit;23;kleding;10;270;11;44;108
+taart;pie;lekker;37;slagroom;30;verjaardag;27;267;1;31;85
+tabak;tobacco;roken;37;sigaret;31;stank;16;249;1;27;67
+tabasco;tabasco;spaghetti;53;pikant;49;rood;43;270;3;22;69
+tafel;table;eten;66;stoel;39;tafelkleed;13;276;1;29;90
+tafeltennis;table tennis;balletje;54;pingpong;48;groen;36;492;6;48;131
+tak;branch;boom;88;blad;33;bruin;17;276;0;21;76
+tamboerijn;tambourine;muziek;70;trommel;11;belletjes;9;270;14;28;108
+tand;tooth;pijn;33;tandarts;33;wit;25;246;1;24;72
+tandarts;dentist;pijn;42;tanden;19;wit;18;270;9;31;106
+tandem;tandem;fiets;59;twee;43;fietsen;10;246;2;24;96
+tanden;teeth;wit;48;tandarts;23;poetsen;20;267;1;27;64
+tandenborstel;toothbrush;tandpasta;55;tanden;35;poetsen;18;246;2;24;79
+tandpasta;toothpaste;tandenborstel;52;tanden;34;poetsen;18;258;0;26;71
+tang;pliers;gereedschap;21;nagel;17;werktuig;15;267;13;38;120
+tank;tank;oorlog;38;leger;35;benzine;30;279;3;29;102
+tankstation;petrol station;auto;43;benzine;39;pomp;13;246;0;26;91
+tapijt;carpet;vloer;20;zacht;18;stof;16;255;1;38;104
+tas;mug;koffie;36;boeken;12;zak;11;270;10;41;112
+taxi;taxi;geel;40;auto;33;duur;25;267;10;21;84
+team;team;sport;31;voetbal;27;groep;23;270;3;26;99
+teen;toe;voet;55;nagel;49;schoen;10;249;7;25;80
+tegel;tile;vloer;58;badkamer;29;vierkant;19;276;6;31;77
+tekenen;to draw;potlood;48;papier;23;kleuren;12;246;3;36;90
+tekenfilm;cartoon;disney;21;kinderen;20;mickeymouse;11;246;0;33;114
+telefoon;telephone;gsm;49;bellen;35;nummer;14;270;1;36;94
+televisie;television;film;17;programma;13;nieuws;13;249;1;41;121
+tennis;tennis;bal;30;racket;17;tennisbal;15;264;2;34;109
+tennisbal;tennis ball;geel;33;rond;20;sport;17;246;2;29;91
+tennisracket;tennis racket;bal;30;sport;22;tennisbal;21;246;2;26;105
+tent;tent;vakantie;28;kamperen;22;camping;18;246;0;30;103
+tentakels;tentacles;inktvis;33;octopus;30;kwal;12;267;24;27;115
+terras;patio;zon;34;zomer;26;drinken;19;261;0;31;86
+thee;tea;warm;23;water;16;citroen;13;267;7;32;109
+theelepel;teaspoon;thee;80;suiker;63;koffie;46;591;8;65;180
+theepot;teapot;thee;42;warm;20;koffie;12;246;0;35;101
+thermometer;thermometer;koorts;45;warm;26;ziek;23;246;0;22;57
+thermos;thermos;koffie;63;warm;49;thee;15;246;1;20;75
+tijd;time;klok;31;horloge;27;uur;20;258;0;37;93
+tijger;tiger;strepen;21;dier;14;kat;13;270;2;35;98
+tiramisu;tiramisu;dessert;43;lekker;37;italie;12;246;1;27;77
+toast;toast;brood;26;broodrooster;15;kaas;13;267;3;36;98
+toeter;horn;auto;34;lawaai;24;bel;14;246;3;22;94
+toetsen;keys;punten;21;computer;18;examen;13;267;10;34;96
+tofu;tofu;vegetarisch;20;eten;19;vegetarier;11;270;77;27;83
+toga;gown;rechter;18;advocaat;17;kleed;16;270;12;38;114
+toilet;toilet;wc;21;wcpapier;15;plassen;13;246;3;39;112
+tol;top;speelgoed;28;draaien;17;betalen;16;246;1;31;111
+tomaat;tomato;rood;64;groente;19;rond;14;270;0;30;84
+tomatensaus;tomato sauce;spaghetti;55;rood;31;balletjes;18;246;2;31;81
+ton;cask, barrel;water;22;vat;21;hout;17;249;7;30;85
+toneel;drama;podium;24;acteur;21;acteurs;18;270;9;39;117
+tong;sole;mond;26;kus;20;smaak;16;270;2;35;82
+topje;top;zomer;45;meisje;11;sexy;11;267;5;38;102
+touw;rope;koord;19;klimmen;18;knoop;11;270;14;32;109
+tovenaar;wizard;merlijn;28;magie;20;toverstok;12;246;3;33;97
+traag;slow;slak;58;snel;30;schildpad;20;270;8;26;110
+traan;tear;verdriet;60;wenen;19;nat;11;246;4;26;72
+tractor;tractor;boer;62;veld;25;boerderij;17;267;1;35;89
+training;tracksuit;sport;36;lopen;24;voetbal;20;276;1;33;119
+tram;tram;trein;23;spoor;19;bus;15;270;2;40;107
+trampoline;trampoline;springen;72;kinderen;17;turnen;15;246;1;27;79
+tranen;tears;verdriet;57;wenen;19;nat;14;246;1;26;82
+trap;stairs;trede;19;leuning;17;hout;14;246;3;33;94
+trechter;funnel;fles;19;water;18;vloeistof;18;258;14;33;113
+trede;step;trap;88;vallen;25;ladder;12;264;4;27;67
+trein;train;station;22;spoor;14;conducteur;11;264;3;39;106
+trekken;to pull;touw;40;duwen;40;deur;10;246;8;25;99
+triangel;triangle;muziek;61;driehoek;57;instrument;15;270;2;24;70
+trombone;trombone;muziek;35;fanfare;19;instrument;16;267;14;29;84
+trommel;drum;muziek;28;lawaai;27;fanfare;26;270;1;30;104
+trompet;trumpet;muziek;40;blazen;18;lawaai;18;267;4;28;86
+trouwen;to marry;kerk;29;feest;28;ring;22;270;3;31;79
+trui;pullover;warm;57;wol;51;winter;31;270;1;25;75
+tuin;garden;gras;50;bloemen;37;groen;20;270;2;22;74
+tuinslang;garden hose;water;59;zomer;24;tuin;18;249;2;24;72
+tulp;tulip;bloem;63;rood;22;nederland;16;246;1;23;77
+turnen;gymnastics;lenig;19;sport;10;bok;10;270;4;46;140
+tutu;tutu;ballet;57;roze;31;dansen;14;246;19;21;75
+tv;television;film;23;programma;16;ontspanning;9;270;4;38;114
+tweeloop;double barreled shotgun;geweer;54;jacht;21;schieten;14;279;32;27;96
+typemachine;typewriter;oud;18;ouderwets;14;letters;14;246;2;33;100
+typen;to type;computer;40;toetsenbord;21;klavier;11;249;3;37;93
+uil;owl;nacht;54;vogel;20;kerk;13;270;3;36;85
+uitgestorven;extinct;dinosaurus;44;dood;35;dieren;12;267;4;32;103
+uniform;uniform;politie;39;leger;32;school;27;267;1;31;99
+vaartuig;vessel;boot;71;water;39;schip;24;303;1;29;99
+vaas;vase;bloemen;62;water;40;glas;21;270;2;28;88
+vakantie;vacation;zon;53;strand;23;zee;22;267;1;30;99
+valk;falcon;vogel;55;lucht;12;vliegen;11;267;5;39;102
+vallen;to fall;pijn;68;opstaan;14;grond;12;270;5;28;111
+vampier;vampire;bloed;71;tanden;53;dracula;20;270;1;26;57
+varaan;monitor lizard;groen;26;hagedis;17;reptiel;17;270;44;28;99
+varen;fern / sail;boot;63;zee;32;water;27;267;7;23;77
+varken;pig;roze;26;roos;25;modder;20;270;0;32;77
+vechten;to fight;pijn;25;ruzie;17;bloed;17;270;6;32;112
+veel;many;weinig;26;eten;15;meer;12;249;15;31;109
+veer;feather;vogel;40;pluim;22;licht;14;246;6;26;79
+vegetarisch;vegetarian;groenten;46;vlees;26;groen;11;267;6;27;102
+veiligheidsspeld;safety pin;luier;26;baby;16;prikken;15;246;6;35;101
+veld;field;gras;32;voetbal;20;boer;11;267;3;36;109
+venkel;fennel;groente;45;groen;22;soep;22;306;16;29;93
+ventilator;fan;wind;39;lucht;26;warm;26;276;1;27;82
+verbrand;burnt;pijn;37;vuur;30;rood;25;270;2;32;93
+verdriet;grief;wenen;36;tranen;30;pijn;30;258;0;28;90
+veren;feathers;vogel;62;zacht;21;kussen;14;270;8;28;88
+verf;paint;muur;26;kleur;24;borstel;20;270;6;32;92
+verfborstel;paintbrush;verf;39;schilderen;18;kleur;17;267;6;28;105
+vergiet;colander;water;48;spaghetti;47;gaatjes;16;270;24;26;80
+verjaardag;birthday;taart;44;feest;40;cadeau;22;270;1;32;92
+verkeer;traffic;auto;42;druk;18;file;16;246;1;35;88
+verkeerslicht;traffic light;rood;68;groen;47;oranje;27;246;3;18;49
+vermoeiend;tiring;slapen;28;moe;17;bed;17;270;5;36;88
+verpleegster;nurse;ziekenhuis;46;wit;24;dokter;13;261;0;34;104
+verrekijker;field glasses;vogels;22;natuur;14;zwart;9;249;5;39;126
+verspringen;long jump;zand;41;atletiek;27;sport;22;270;10;29;115
+vervoer;transportation;auto;55;bus;53;trein;36;249;0;13;43
+vest;jacket;warm;35;jas;27;winter;17;267;5;32;103
+vet;fat;dik;58;eten;21;frieten;13;270;5;27;93
+veters;shoelace;schoen;47;schoenen;37;knoop;15;270;19;25;83
+vettig;greasy;haar;28;frieten;23;vies;16;264;1;28;108
+vies;dirty;vuil;46;modder;16;lelijk;14;270;15;33;121
+vijg;fig;plat;25;fruit;17;boom;14;270;12;31;97
+vijl;file;nagels;47;nagel;24;ijzer;11;267;8;28;105
+vijs;nut;schroevendraaier;33;schroef;26;hamer;12;270;12;37;80
+vijver;pond;water;50;vis;37;vissen;28;267;3;26;75
+vinger;finger;hand;40;nagel;35;ring;34;246;0;23;77
+vingerhoed;thimble;naaien;60;naald;36;draad;13;270;7;21;88
+vink;finch;vogel;77;zingen;13;fluiten;10;303;5;38;117
+viool;violin;muziek;42;snaar;21;snaren;18;270;1;31;96
+viooltje;violet;bloem;58;paars;25;muziek;23;249;0;22;77
+vis;fish;zee;35;water;23;eten;16;270;3;44;113
+vissen;fish;water;34;zee;21;hengel;16;267;5;38;106
+vlaai;flan;taart;38;koe;24;lekker;24;264;9;34;87
+vlag;flag;land;32;belgie;26;kleuren;19;276;9;35;97
+vleermuis;bat;nacht;27;donker;26;zwart;19;270;7;29;85
+vlees;flesh / meat;koe;22;eten;21;biefstuk;19;270;6;31;98
+vleugel;wing;vogel;67;vliegtuig;39;vliegen;28;264;2;20;55
+vleugels;wings;vogel;65;vliegen;49;vliegtuig;24;270;6;20;55
+vlieg;fly;zwart;20;vleugels;15;insect;14;264;4;33;94
+vliegen;to fly;vliegtuig;52;vogel;31;lucht;17;267;7;29;77
+vlieger;kite;wind;37;zee;28;lucht;20;255;0;32;88
+vliegtuig;airplane;lucht;26;vakantie;20;reizen;13;270;0;36;108
+vlinder;butterfly;zomer;29;mooi;18;bloem;17;267;1;31;82
+vlo;flea;jeuk;35;hond;24;klein;23;270;8;30;85
+vloeistof;fluid;water;76;drinken;34;drank;14;270;3;23;78
+vloer;floor;tegels;20;tegel;20;parket;19;249;5;30;83
+vlot;raft;water;35;snel;33;boot;15;285;3;37;121
+voertuig;vehicle;auto;82;fiets;27;bus;18;270;5;21;72
+voet;foot;teen;38;schoen;37;tenen;12;246;2;28;81
+voetbal;soccer;bal;25;goal;20;sport;13;267;2;36;117
+voeten;feet;schoenen;45;tenen;36;lopen;11;267;7;33;78
+vogel;bird;vliegen;33;lucht;19;nest;17;270;9;35;97
+volleybal;volleyball;sport;42;net;42;bal;32;267;7;32;85
+vonnis;judgment;rechter;35;rechtbank;19;gerecht;17;246;0;32;80
+vork;fork;mes;61;eten;58;lepel;46;264;7;17;53
+vos;fox;sluw;33;bos;31;ros;15;270;8;39;89
+vrachtwagen;truck;chauffeur;19;groot;17;autosnelweg;11;267;4;36;118
+vrede;peace;duif;38;oorlog;25;wit;16;246;4;29;108
+vriendelijk;friendly;lief;39;aangenaam;11;vrienden;11;270;19;33;103
+vrijetijd;leisure;vrienden;20;sport;16;ontspanning;13;273;0;42;118
+vrouw;woman;man;34;mooi;23;moeder;16;270;7;33;108
+vrucht;fruit;appel;37;fruit;20;gezond;15;270;6;32;90
+vuil;dirty;modder;25;vies;22;afval;15;270;3;37;120
+vuilbak;garbage can;afval;28;stank;26;vuil;17;246;1;32;99
+vuilblik;dustpan;borstel;38;stof;20;vuil;15;246;3;28;92
+vuilnis;garbage;stank;25;zak;23;afval;22;276;0;41;97
+vuilniskar;garbage truck;stank;41;oranje;19;afval;14;276;0;36;117
+vuilnisman;garbage collector;stank;26;vuilniskar;17;oranje;17;270;6;33;92
+vuist;fist;hand;34;vechten;22;slaan;13;246;2;28;73
+vulkaan;volcano;lava;49;vuur;22;uitbarsting;18;246;1;21;69
+vuur;fire;warm;49;brand;18;rood;15;270;2;35;74
+vuurtoren;lighthouse;zee;57;licht;49;boten;11;246;2;25;73
+wafel;waffle;slagroom;27;suiker;24;lekker;21;267;1;39;106
+walrus;walrus;zee;31;snor;25;groot;16;246;3;28;76
+walvis;whale;zee;48;groot;44;water;18;264;3;29;83
+wandelen;walk;bos;36;natuur;13;park;11;270;7;35;120
+wandelstok;cane;oud;43;hout;23;bergen;19;246;5;27;100
+wanten;mittens;winter;45;warm;28;koud;27;270;3;22;68
+wapen;weapon;geweer;24;oorlog;20;dood;18;306;0;38;113
+warm;warm / hot;zon;43;zomer;27;koud;19;267;2;37;81
+was;laundry;vuil;26;wasmachine;24;kleren;12;249;1;35;100
+wasbak;sink;water;36;zeep;35;wassen;18;246;3;24;80
+wasbeer;raccoon;dier;17;schattig;15;lief;15;246;12;31;109
+wasknijper;clothes peg;was;40;wasdraad;30;hout;16;246;5;31;79
+wasmachine;washing machine;kleren;23;waspoeder;20;proper;19;270;3;34;90
+wassen;to wash;zeep;41;water;28;douche;17;246;1;28;82
+water;water;drinken;27;dorst;24;zee;24;270;6;28;95
+waterkers;(water)cress;groen;42;lekker;17;groente;16;264;12;28;100
+waterkoker;electric kettle;thee;41;water;23;warm;22;270;3;22;88
+waterpas;level;recht;46;bouwen;12;loodrecht;10;267;14;28;115
+waterput;well;emmer;46;water;45;diep;24;270;1;34;94
+waterschildpad;tortoise;groen;33;water;30;traag;12;270;27;27;105
+web;web;spin;77;internet;53;computer;10;270;3;23;78
+weegschaal;scales;gewicht;51;dik;21;dieet;16;270;9;33;98
+weg;road;auto;26;straat;19;baan;12;246;1;34;124
+wei;meadow ;koe;70;gras;57;groen;26;270;2;23;65
+weide;meadow ;gras;57;koe;43;groen;31;246;4;19;74
+wekker;alarm (clock);opstaan;58;tijd;19;uur;13;285;0;35;82
+wenen;to cry;verdriet;44;tranen;39;huilen;19;267;4;30;87
+wereldbol;globe;aarde;44;rond;31;blauw;26;309;0;32;99
+werk;work;geld;29;bureau;14;collegas;14;267;3;42;111
+werken;to work;geld;39;vermoeiend;10;moe;9;267;7;40;126
+werktuig;tool;hamer;67;zaag;24;werken;23;432;14;49;137
+werpen;to throw;gooien;48;bal;38;speer;15;246;9;26;78
+wesp;wasp;steek;28;pijn;27;angel;21;270;0;27;84
+wieken;vanes;molen;38;kaars;13;draaien;12;279;89;26;77
+wiel;wheel;fiets;51;auto;36;rond;34;267;6;19;65
+wielen;wheels;auto;69;fiets;56;rond;28;270;2;17;63
+wielrennen;cycling;fiets;46;tourdefrance;16;sport;11;267;1;33;106
+wieltjes;(small) wheels;fiets;37;auto;22;rond;14;267;12;31;101
+wigwam;wigwam;indiaan;54;tent;43;indianen;26;258;7;26;89
+wijn;wine;rood;44;wit;21;glas;20;270;4;26;79
+wild;wild;dier;19;hert;14;everzwijn;10;264;6;41;116
+wind;wind;koud;26;zee;25;waaien;14;267;5;34;113
+winkel;shop;geld;33;kopen;27;eten;26;270;3;36;102
+winkelbediende;shop-assistant;kassa;45;geld;25;winkel;16;270;2;31;113
+winter;winter;sneeuw;67;koud;59;wit;11;270;2;22;77
+wipplank;seesaw;zwembad;30;speeltuin;28;kinderen;21;246;6;30;92
+wit;white;sneeuw;39;zwart;29;kleur;13;270;1;39;107
+witloof;endive;wit;27;groente;26;bitter;25;270;4;30;91
+wittekool;white cabbage;groente;27;rodekool;24;bloemkool;14;270;5;33;103
+woestijn;desert;zand;65;droog;26;warm;23;270;3;23;69
+wok;wok;chinees;36;groenten;24;eten;23;270;7;28;88
+wol;wool;schaap;65;trui;34;warm;20;267;4;24;75
+wolf;wolf;hond;25;huilen;18;dier;17;270;2;29;104
+wolk;cloud;regen;49;wit;30;lucht;28;249;1;25;70
+wonde;wound;bloed;65;pijn;47;pleister;9;246;0;28;71
+worm;worm;aarde;31;regen;26;grond;20;270;6;27;101
+worst;sausage;vlees;23;eten;22;appelmoes;12;270;4;38;107
+wortel;carrot;oranje;60;konijn;39;groente;17;264;2;28;77
+wortelen;carrot;oranje;59;konijn;36;groente;15;270;7;30;70
+wurgen;to strangle;dood;32;moord;21;pijn;17;261;6;28;81
+yoghurt;yoghurt;wit;25;gezond;20;fruit;20;270;2;32;95
+zaag;saw;hout;45;boom;25;tanden;19;270;6;32;100
+zacht;soft;kussen;25;bed;13;lief;11;267;13;40;121
+zadel;saddle;paard;77;fiets;48;zitten;12;270;8;27;73
+zak;bag;winkel;17;plastiek;16;broek;12;255;2;41;122
+zakdoek;handkerchief;snuiten;27;neus;27;snot;26;315;1;38;105
+zaklamp;flashlight;licht;47;donker;37;tent;14;246;1;23;79
+zalm;salmon;vis;65;roze;38;zee;17;270;4;24;84
+zand;sand;zee;63;strand;52;kasteel;14;270;0;27;79
+zebra;zebra;strepen;34;paard;23;afrika;19;267;4;25;67
+zee;sea;strand;35;water;35;golven;19;267;0;25;69
+zeef;sieve;zand;37;bloem;20;gaatjes;20;270;0;29;95
+zeehond;seal;water;22;zee;14;ijs;12;285;0;49;119
+zeepaardje;hippocampus;zee;39;water;27;schattig;12;246;2;29;105
+zeilboot;sailboat;zee;44;water;36;wind;29;246;3;20;74
+zeilen;sailing;water;42;wind;41;zee;39;270;2;22;76
+zeppelin;Zeppelin;lucht;34;ballon;29;vliegen;23;267;11;32;98
+zetel;couch;tv;33;zitten;21;liggen;15;246;3;34;73
+ziek;sick;bed;29;koorts;22;dokter;19;270;5;35;98
+ziekenhuis;hospital;ziek;23;dokter;22;wit;21;267;0;32;91
+zien;to see;ogen;46;kijken;33;bril;30;246;1;28;80
+zilver;silver;goud;52;ring;27;juwelen;16;267;5;30;86
+zingen;to sing;muziek;19;koor;17;vals;14;246;4;37;106
+zitten;to sit;stoel;61;zetel;24;staan;22;255;2;29;76
+zoemen;to buzz;bij;62;mug;24;wesp;16;267;2;28;92
+zoet;sweet;snoep;57;suiker;46;zuur;19;270;7;27;78
+zomer;summer;zon;56;warm;39;vakantie;30;270;1;30;69
+zon;sun;warm;31;zomer;25;warmte;22;246;2;24;82
+zondag;Sunday;weekend;20;uitslapen;18;rustdag;13;246;1;36;90
+zoo;zoo;dieren;49;antwerpen;42;aap;16;267;2;23;89
+zoogdier;mammal;mens;28;hond;21;aap;20;270;8;30;92
+zout;salt;zee;39;peper;28;eten;18;270;7;34;89
+zoutvat;saltcellar;peper;36;zout;22;eten;17;270;9;34;88
+zuivelproduct;dairy product;melk;93;kaas;53;yoghurt;26;306;0;14;47
+zuur;sour;snoep;37;citroen;34;zoet;21;270;7;33;87
+zwaan;swan;wit;58;water;26;vijver;16;270;2;26;78
+zwaar;heavy;gewicht;27;dik;23;licht;21;270;16;29;113
+zwaard;sword;ridder;49;scherp;20;middeleeuwen;19;267;0;30;90
+zwaardvis;swordfish;zee;50;water;18;vis;10;270;8;31;108
+zwaluw;swallow;vogel;48;lucht;23;nest;17;267;12;26;96
+zwart;black;donker;41;nacht;22;wit;21;264;15;28;98
+zwartwit;black-and-white;grijs;16;foto;16;tv;14;270;6;36;143
+zweep;whip;paard;42;pijn;37;sm;28;279;1;25;89
+zweet;sweat;sport;22;stank;17;nat;15;249;0;37;94
+zwembad;pool;water;57;zwemmen;21;zomer;14;270;1;30;75
+zwemmen;swim;water;51;zwembad;21;nat;13;267;1;32;103
+zwempak;bathing suit;water;39;zwembad;32;zwemmen;20;270;3;26;84
