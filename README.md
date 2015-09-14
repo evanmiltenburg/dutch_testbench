@@ -10,7 +10,7 @@ This repository provides a collection of tests for semantic models trained on th
 * `dedeyne_etal_goodness.py`
 
 ## Main file
-The main file is `test_suite.py`. This file contains six test functions that each take a `model` object and return a dictionary with the outcome of the test.
+The main file is `test_suite.py`. This file contains six test functions that each take a `model` object and return a dictionary with the outcome of the test. Import it using `from dutch_testbench import test_suite`.
 
 * `test_relatedness_1` Tests relatedness by checking whether the strongest associate for each exemplar is more strongly associated with the exemplar than the third strongest one. Uses data from De Deyne & Storms (2008).
 
