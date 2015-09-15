@@ -1,3 +1,4 @@
+import glob, json
 from gensim.models import Word2Vec
 from dutch_testbench import test_suite
 
@@ -13,4 +14,13 @@ def evaluate_on_all(filename):
                 }
     return results
 
-model = './models/wiki_w10_mc50_skipgram.bin'
+def get_name_from_path(path):
+    return path.split('/')[-1].split('.')[0]
+
+def evaluate_folder(path_to_folder):
+    files = glob.glob(path_to_folder + '*.bin')
+    for filename in files:
+        results   = evaluate_on_all(filename)
+        json_name = get_name_from_path(filename) + '.json'
+        with open('./result_data/' + json_name, 'w') as f:
+            json.dump(results, f)
