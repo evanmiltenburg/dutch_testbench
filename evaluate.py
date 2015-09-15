@@ -1,4 +1,4 @@
-import glob, json
+import glob, pickle
 from gensim.models import Word2Vec
 from dutch_testbench import test_suite
 
@@ -23,4 +23,4 @@ def evaluate_folder(path_to_folder):
         results   = evaluate_on_all(filename)
         json_name = get_name_from_path(filename) + '.json'
         with open('./result_data/' + json_name, 'w') as f:
-            json.dump(results, f)
+            pickle.dump(results, f)
