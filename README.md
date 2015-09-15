@@ -9,8 +9,10 @@ This repository provides a collection of tests for semantic models trained on th
 * `dedeyne_etal_typicality.py`
 * `dedeyne_etal_goodness.py`
 
-## Main file
-The main file is `test_suite.py`. This file contains six test functions that each take a `model` object and return a dictionary with the outcome of the test. Import it using `from dutch_testbench import test_suite`.
+## How to use this module
+The main file is `test_suite.py`. This file contains six test functions that each take a `model` object and a `set` of words in the model (i.e. the vocabulary), and return a dictionary with the outcome of the test. Import it using `from dutch_testbench import test_suite`. The file `evaluate.py` provides an example.
+
+#### The six test functions
 
 * `test_relatedness_1` Tests relatedness by checking whether the strongest associate for each exemplar is more strongly associated with the exemplar than the third strongest one. Uses data from De Deyne & Storms (2008).
 
@@ -24,7 +26,7 @@ The main file is `test_suite.py`. This file contains six test functions that eac
 
 * `test_goodness` Correlates the predicted goodness ranking of exemplars within each category with the actual goodness ranking of those exemplars. Uses data from De Deyne et al. (2008).
 
-**NB. If you are not using this module along with Gensim/word2vec:**
+## If you are not using this module along with Gensim/word2vec
 * All functions except `test_typicality` require `model.similarity()` to be implemented.
 * `test_typicality` requires `model.doesnt_match()` to be implemented.
 

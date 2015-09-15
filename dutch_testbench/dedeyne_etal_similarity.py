@@ -20,6 +20,9 @@ def get_similarities():
         kind = get_kind(filename)
         for i,sheet in enumerate(book.sheets()):
             names = map(lambda x:x.value, sheet.row(1)[2:])
+            # De Deyne et al. for some reason made the format different for these..
+            if kind in {'Vegetables', 'Sports', 'Professions', 'Fruit'}:
+                names = map(lambda x:x.value, sheet.row(0)[2:])
             matrix = [map(lambda x:x.value, sheet.row(i)[2:])
                       for i in range(2,sheet.nrows)]
             gen = ( tuple(sorted([a,b]))

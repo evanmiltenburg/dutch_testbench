@@ -1,16 +1,16 @@
 # Import all the scripts to load the data.
 
 # Relatedness
-import dedeyne_storms_relatedness
-import ruts_etal_relatedness
+from . import dedeyne_storms_relatedness
+from . import ruts_etal_relatedness
 
 # Similarity
-import dedeyne_etal_similarity
-import ruts_etal_similarity
+from . import dedeyne_etal_similarity
+from . import ruts_etal_similarity
 
 # Typicality/Goodness
-import dedeyne_etal_typicality
-import dedeyne_etal_goodness
+from . import dedeyne_etal_typicality
+from . import dedeyne_etal_goodness
 
 # Other imports.
 from scipy.stats.stats import pearsonr
@@ -128,7 +128,7 @@ def test_similarity_1(model, vocab):
         predicted_values = []
         actual_values    = []
         for pair, score in d[category].items():
-            if set(pair) in vocab:
+            if set(pair).issubset(vocab):
                 predicted_values.append(model.similarity(*pair))
                 actual_values.append(score)
             else:
@@ -149,7 +149,7 @@ def test_similarity_2(model, vocab):
         predicted_values = []
         actual_values    = []
         for pair, score in d[category].items():
-            if set(pair) in vocab:
+            if set(pair).issubset(vocab):
                 predicted_values.append(model.similarity(*pair))
                 actual_values.append(score)
             else:
