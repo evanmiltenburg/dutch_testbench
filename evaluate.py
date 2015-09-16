@@ -21,6 +21,6 @@ def evaluate_folder(path_to_folder):
     files = glob.glob(path_to_folder + '*.bin')
     for filename in files:
         results   = evaluate_on_all(filename)
-        json_name = get_name_from_path(filename) + '.json'
-        with open('./result_data/' + json_name, 'w') as f:
+        pickle_name = get_name_from_path(filename) + '.pickle'
+        with open('./result_data/' + pickle_name, 'w') as f:
             pickle.dump(results, f)
