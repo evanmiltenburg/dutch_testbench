@@ -1,0 +1,1 @@
+java -Xmx812m -cp ../lib/WordnetTools-1.0-jar-with-dependencies.jar vu.wntools.wnsimilarity.main.Similarity --lmf-file "../resources/cornetto2.1.lmf.xml" --input "../input/sim-processing/simpairs.txt" --method all --pairs words --subsumers "../resources/cornettosubsumers.cum" --pos n --relations "../resources/relations.txt" > results.txt
