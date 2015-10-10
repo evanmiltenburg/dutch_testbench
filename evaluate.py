@@ -6,7 +6,10 @@ def evaluate_on_all(filename):
     model = Word2Vec.load_word2vec_format(filename, binary=True)
     vocab = set(model.vocab.keys())
     results = { 'relatedness1': test_suite.test_relatedness_1(model, vocab),
-                'relatedness2': test_suite.test_relatedness_2(model, vocab),
+                'relatedness2-cc': test_suite.test_relatedness_2(model, vocab, variant = 'cross-cat'),
+                'relatedness2-ccw': test_suite.test_relatedness_2(model, vocab, variant = 'cross-cat-weighted'),
+                'relatedness2-wc': test_suite.test_relatedness_2(model, vocab, variant = 'within-cat'),
+                'relatedness2-wcw': test_suite.test_relatedness_2(model, vocab, variant = 'within-cat-weighted'),
                 'similarity1': test_suite.test_similarity_1(model, vocab),
                 'similarity2': test_suite.test_similarity_2(model, vocab),
                 'typicality': test_suite.test_typicality(model, vocab),
@@ -17,10 +20,10 @@ def evaluate_on_all(filename):
 def get_name_from_path(path):
     return path.split('/')[-1].split('.')[0]
 
-def evaluate_folder(path_to_folder):
-    files = glob.glob(path_to_folder + '*.bin')
-    for filename in files:
-        results   = evaluate_on_all(filename)
-        pickle_name = get_name_from_path(filename) + '.pickle'
-        with open('./result_data/' + pickle_name, 'w') as f:
-            pickle.dump(results, f)
+def evaluate_model(path_to_model):
+    results   = evaluate_on_all(filename)
+    pickle_name = get_name_from_path(filename) + '.pickle'
+    with open('./result_data/' + pickle_name, 'w') as f:
+        pickle.dump(results, f)
+
+evaluate_folder('../vectors/all_w10_mc50_skipgram.bin')
