@@ -19,3 +19,13 @@ def get_association_dict():
     d = dict(create_entry(sheet.row(rownum)) for rownum in range(1,sheet.nrows))
     
     return d
+
+def test_items():
+    d = get_association_dict()
+    for exemplar, ass in d.items():
+        yield (exemplar, ass.a1, ass.a3)
+
+def get_pairs():
+    for ex, a1, a2 in test_items():
+        yield ex, a1
+        yield ex, a2

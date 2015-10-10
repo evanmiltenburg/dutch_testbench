@@ -35,7 +35,7 @@ def num_participants(sheet):
 def number_to_word(sheet):
     "Returns a dictionary INDEX:WORD for all words in the sheet."
     words = [cell.value for cell in sheet.col(1) if not cell.value==''][1:]
-    words = map(lambda w: w.encode('utf-8'), words)
+    #words = [w.encode('utf-8') for w in words]
     return dict(zip(range(1,len(words)+1),words))
 
 ################################################################################
@@ -112,3 +112,9 @@ def get_similarity_dict():
     sheet_dict = get_sheet_dict()
     return {name: similarity_for_sheet(sheet)
             for name, sheet in sheet_dict.items()}
+
+def get_pairs():
+    d = get_similarity_dict()
+    for category in d:
+        for pair in d[category].keys():
+            yield pair

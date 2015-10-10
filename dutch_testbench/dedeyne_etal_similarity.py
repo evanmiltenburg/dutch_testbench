@@ -19,11 +19,11 @@ def get_similarities():
         book = xlrd.open_workbook(filename)
         kind = get_kind(filename)
         for i,sheet in enumerate(book.sheets()):
-            names = map(lambda x:x.value, sheet.row(1)[2:])
+            names = [x.value for x in sheet.row(1)[2:]]
             # De Deyne et al. for some reason made the format different for these..
             if kind in {'Vegetables', 'Sports', 'Professions', 'Fruit'}:
-                names = map(lambda x:x.value, sheet.row(0)[2:])
-            matrix = [map(lambda x:x.value, sheet.row(i)[2:])
+                names = [x.value for x in sheet.row(0)[2:]]
+            matrix = [[x.value for x in sheet.row(i)[2:]]
                       for i in range(2,sheet.nrows)]
             gen = ( tuple(sorted([a,b]))
                     for a,b in combinations(range(len(names)),2))
@@ -54,3 +54,8 @@ def average_similarities(d):
 def get_average_similarities():
     "Wrapper for the functions above."
     return average_similarities(get_similarities())
+
+def get_pairs():
+    for d in get_average_similarities().values():
+        for pair in d.keys():
+            yield pair

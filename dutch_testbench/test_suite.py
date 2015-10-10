@@ -16,18 +16,23 @@ from . import dedeyne_etal_goodness
 from scipy.stats.stats import pearsonr
 from scipy.stats.stats import spearmanr
 from scipy.stats.stats import kendalltau
+from itertools import chain
+
 
 def stronger_sim(model, exemplar, correct, incorrect):
     return model.similarity(exemplar, correct) > model.similarity(exemplar, incorrect)
+
+def equal_sim(model, exemplar, correct, incorrect):
+    return model.similarity(exemplar, correct) == model.similarity(exemplar, incorrect)
 
 def test_relatedness_1(model, vocab):
     """Test the model for relatedness. Method: check whether the strongest associate
     for each exemplar is more strongly associated than the third strongest one.
     
     This method is using data from De Deyne & Storms (2008)"""
-    d       = dedeyne_storms_relatedness.get_association_dict()
-    items   = ( (exemplar, ass.a1, ass.a3) for exemplar, ass in d.items())
-    results = {'correct': 0,
+    items   = dedeyne_storms_relatedness.test_items()
+    results = {'total': 0,
+                'correct': 0,
                'incorrect': 0,
                'skipped': 0,
                'ex_not_in_dict': set(),
@@ -37,12 +42,16 @@ def test_relatedness_1(model, vocab):
         # If all words are in the vocabulary of the model, we can evaluate the item.
         if set([ex, a1, a3]).issubset(vocab):
             
+            results['total'] += 1
             # Evaluate whether the similarity between the exemplar and its strongest
             # associate is stronger than the similarity between the exemplar and the
             # third strongest one.
             if stronger_sim(model, ex, a1, a3):
                 results['correct'] += 1
             
+            elif equal_sim(model, ex, a1, a3):
+                results['correct'] += 0.5
+                
             else:
                 results['incorrect'] += 1
         
@@ -55,66 +64,58 @@ def test_relatedness_1(model, vocab):
                 results['ass_not_in_dict'].update({a1, a3}-vocab)
     
     # Final calculations:
-    results['total'] = results['correct'] + results['incorrect']
     results['score'] = float(results['correct']) / results['total']
     return results
 
-def test_relatedness_2(model, vocab):
+def test_relatedness_2(model, vocab, variant=None):
     """Test the model for relatedness. Method: check whether the most similar word
     for a given exemplar is more similar than any other word outside the category
     of the exemplar.
     
     This method is using data from Ruts et al. (2004)"""
+    
+    variants = {'cross-cat':ruts_etal_relatedness.test_items1(weight=False),
+                'cross-cat-weighted':ruts_etal_relatedness.test_items1(weight=True),
+                'within-cat': ruts_etal_relatedness.test_items2(weight=False),
+                'within-cat-weighted': ruts_etal_relatedness.test_items2(weight=True)}
+    
     # Get our basic data.
-    associations     = ruts_etal_relatedness.get_association_dict()
-    non_associations = ruts_etal_relatedness.get_non_associates(associations)
-    not_in_vocab     = set.union(*non_associations.values()) - vocab
+    items = variants[variant]
     # Now we define our results object.
-    results = {category: {'correct': 0,
-                          'incorrect': 0,
-                          'skipped': 0,
-                          'ex_not_in_dict': set(),
-                          'ass_not_in_dict': set()}
-                for category in associations}
+    results = {'total': 0,
+               'correct': 0,
+               'incorrect': 0,
+               'skipped': 0,
+               'ex_not_in_dict': set(),
+               'ass_not_in_dict': set()}
     
     # Code to perform the evaluation:
-    for category in associations:
-        na_set = non_associations[category] - not_in_vocab
-        for exemplar in associations[category]:
-            if exemplar in vocab:
-                associate = associations[category][exemplar].most_common()[0][0]
-                if associate in vocab:
-                    for non_associate in na_set:
-                        # Perform the crucial test:
-                        if stronger_sim(model, exemplar, associate, non_associate):
-                            results[category]['correct'] += 1
-                        else:
-                            results[category]['incorrect'] += 1
-    
-                else:
-                    # If the association is not in the vocab:
-                    results[category]['skipped'] += 1
-                    results[category]['ass_not_in_dict'].add(associate)
-    
+    for exemplar, associate, non_associate in items:
+        if not exemplar in vocab:
+            # If the exemplar is not in the vocab:
+            results['skipped'] += 1
+            results['ex_not_in_dict'].add(exemplar)
+        
+        elif not associate in vocab:
+            results['skipped'] += 1
+            results['ass_not_in_dict'].add(associate)
+        
+        elif not non_associate in vocab:
+            continue
+        
+        else:
+            results['total'] += 1
+            # Perform the crucial test:
+            if stronger_sim(model, exemplar, associate, non_associate):
+                results['correct'] += 1
+            
+            elif equal_sim(model, exemplar, associate, non_associate):
+                results['correct'] += 0.5
+            
             else:
-                # If the exemplar is not in the vocab:
-                results[category]['skipped'] += 1
-                results[category]['ex_not_in_dict'].add(exemplar)
+                results['incorrect'] += 1
     
-        # Compute statistics for category:
-        results[category]['total'] = results[category]['correct'] + results[category]['incorrect']
-        results[category]['score'] = float(results[category]['correct'])/results[category]['total']
-    
-    # Compute overall score and other statistics:
-    total = sum(results[category]['total'] for category in results)
-    correct = sum(results[category]['correct'] for category in results)
-    incorrect = sum(results[category]['incorrect'] for category in results)
-    score = float(correct)/total
-    results['overall'] = {'total': total,
-                          'correct': correct,
-                          'incorrect': incorrect,
-                          'score': score,
-                          'not_in_vocab': not_in_vocab}
+    results['score'] = float(results['correct'])/results['total']
     return results
 
 def test_similarity_1(model, vocab):
@@ -124,6 +125,8 @@ def test_similarity_1(model, vocab):
     This method is using data from De Deyne et al. (2008)"""
     d       = dedeyne_etal_similarity.get_average_similarities()
     results = {category:{'skipped': set()} for category in d}
+    pred_overall = []
+    actual_overall = []
     for category in d:
         predicted_values = []
         actual_values    = []
@@ -133,9 +136,15 @@ def test_similarity_1(model, vocab):
                 actual_values.append(score)
             else:
                 results[category]['skipped'].update(set(pair) - vocab)
+            pred_overall += predicted_values
+            actual_overall += actual_values
         results[category]['pairs_tested'] = len(predicted_values)
         results[category]['pearsonr'] = pearsonr(predicted_values, actual_values)
         results[category]['spearmanr'] = spearmanr(predicted_values, actual_values)
+    results['overall'] = dict()
+    results['overall']['pairs_tested'] = len(predicted_values)
+    results['overall']['pearsonr'] = pearsonr(pred_overall, actual_overall)
+    results['overall']['spearmanr'] = spearmanr(pred_overall, actual_overall)
     return results
 
 def test_similarity_2(model, vocab):
@@ -145,6 +154,8 @@ def test_similarity_2(model, vocab):
     This method is using data from Ruts et al. (2004)"""
     d = ruts_etal_similarity.get_similarity_dict()
     results = {category:{'skipped': set()} for category in d}
+    pred_overall = []
+    actual_overall = []
     for category in d:
         predicted_values = []
         actual_values    = []
@@ -154,9 +165,15 @@ def test_similarity_2(model, vocab):
                 actual_values.append(score)
             else:
                 results[category]['skipped'].update(set(pair) - vocab)
+            pred_overall += predicted_values
+            actual_overall += actual_values
         results[category]['pairs_tested'] = len(predicted_values)
         results[category]['pearsonr'] = pearsonr(predicted_values, actual_values)
         results[category]['spearmanr'] = spearmanr(predicted_values, actual_values)
+    results['overall'] = dict()
+    results['overall']['pairs_tested'] = len(predicted_values)
+    results['overall']['pearsonr'] = pearsonr(pred_overall, actual_overall)
+    results['overall']['spearmanr'] = spearmanr(pred_overall, actual_overall)
     return results
 
 def test_typicality(model, vocab):
@@ -207,3 +224,25 @@ def test_goodness(model, vocab):
     results['overall']['avg_spearman'] = avg_spearman
     results['overall']['avg_kendall'] = avg_kendall
     return results
+
+
+def all_pairs():
+    """DEFINITELY NOT OPTIMIZED function to get all pairs of words that are being
+    compared by this module"""
+    x = chain(dedeyne_storms_relatedness.get_pairs(),
+              ruts_etal_relatedness.get_pairs1(True),
+              ruts_etal_relatedness.get_pairs2(True),
+              ruts_etal_relatedness.get_pairs1(False),
+              ruts_etal_relatedness.get_pairs2(False),
+              dedeyne_etal_similarity.get_pairs(),
+              ruts_etal_similarity.get_pairs(),
+              dedeyne_etal_typicality.get_pairs(),
+              dedeyne_etal_goodness.get_pairs())
+    for pair in x:
+        yield pair
+
+def write_all_pairs():
+    "DEFINITELY NOT OPTIMIZED function to write all pairs to disk."
+    with open('simpairs.txt','w') as f:
+        f.writelines(a + '\t' + b + '\n'
+                    for a,b in {tuple(sorted(pair)) for pair in all_pairs()})

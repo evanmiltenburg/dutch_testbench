@@ -1,3 +1,4 @@
+from itertools import product
 import xlrd
 
 path = 'dutch_testbench/DeDeyne-BRM-2008b/exceldata/exemplar judgments/exemplarGoodnessRankOrder.xls'
@@ -20,10 +21,10 @@ replacements = {'reptiles':            'reptiel',
                 'fruit':               'fruit'}
 
 def values_for_list(l):
-    return map(lambda x:x.value, l)
+    return [x.value for x in l]
 
 def sum_for_row(row):
-    return sum(map(lambda x:x.value, row))
+    return sum(values_for_list(row))
 
 def ranking_for_sheet(sheet):
     "Get a ranking for a particular sheet."
@@ -37,3 +38,9 @@ def get_goodness_rankings():
     sheet_dict = dict(zip(book.sheet_names(),book.sheets()))
     return {replacements[category]: ranking_for_sheet(sheet)
             for category, sheet in sheet_dict.items()}
+
+def get_pairs():
+    d = get_goodness_rankings()
+    for cat, exemplars in d.items():
+        for pair in product([cat],exemplars):
+            yield pair

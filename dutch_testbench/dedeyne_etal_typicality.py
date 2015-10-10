@@ -1,4 +1,5 @@
 import xlrd
+from itertools import combinations
 
 path = 'dutch_testbench/DeDeyne-BRM-2008b/exceldata/exemplar judgments/exemplarTypicalityRatings.xls'
 
@@ -25,11 +26,17 @@ def get_typicality_data():
     # Helper function.
     def get_mean_typicalities(sheet):
         "Get the mean typicalities from a given sheet."
-        words  = map(lambda x:x.value, sheet.col(0)[1:])
-        values = map(lambda x:x.value, sheet.col(30)[1:])
+        words  = [x.value for x in sheet.col(0)[1:]]
+        values = [x.value for x in sheet.col(30)[1:]]
         return dict(zip(words,values))
     
     book = xlrd.open_workbook(path)
     sheet_dict = dict(zip(book.sheet_names(),book.sheets()))
     return {replacements[category]: get_mean_typicalities(sheet)
             for category, sheet in sheet_dict.items()}
+
+def get_pairs():
+    d = get_typicality_data()
+    for category, typ_dict in d.items():
+        for pair in combinations(list(typ_dict.keys()),2):
+            yield pair
