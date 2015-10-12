@@ -1,5 +1,5 @@
 import xlrd
-from itertools import combinations
+from itertools import combinations, product
 
 path = 'dutch_testbench/DeDeyne-BRM-2008b/exceldata/exemplar judgments/exemplarTypicalityRatings.xls'
 
@@ -40,3 +40,9 @@ def get_pairs():
     for category, typ_dict in d.items():
         for pair in combinations(list(typ_dict.keys()),2):
             yield pair
+
+def get_pairs2():
+    d = get_typicality_data()
+    for c1, c2 in combinations(d.keys(),2):
+        for a,b in product(d[c1].keys(), d[c2].keys()):
+            yield a,b

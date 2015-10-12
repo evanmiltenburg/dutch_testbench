@@ -198,6 +198,22 @@ def test_typicality(model, vocab):
     results['score'] = float(results['correct'])/results['total']
     return results
 
+def test_typicality2(model, vocab):
+    d = dedeyne_etal_typicality.get_typicality_data()
+    results = {'correct':0, 'incorrect':0}
+    for cat1 in d:
+        exemplars1 = set(d[cat1].keys())
+        for cat2 in set(d.keys()) - {cat1}:
+            exemplars2 = set(d[cat2].keys())
+            for ex2 in exemplars2:
+                if model.doesnt_match(exemplars1 | {ex2}) == ex2:
+                    results['correct'] += 1
+                else:
+                    results['incorrect'] += 1
+    results['total'] = results['correct'] + results['incorrect']
+    results['score'] = float(results['correct'])/results['total']
+    return results
+
 def test_goodness(model, vocab):
     """Tests the model on its ability to create a goodness ranking for a category.
     Method: get spearman (rank) correlation between the predicted and the actual ranking.
@@ -237,6 +253,7 @@ def all_pairs():
               dedeyne_etal_similarity.get_pairs(),
               ruts_etal_similarity.get_pairs(),
               dedeyne_etal_typicality.get_pairs(),
+              dedeyne_etal_typicality.get_pairs2(),
               dedeyne_etal_goodness.get_pairs())
     for pair in x:
         yield pair
